@@ -6,6 +6,7 @@ public class PlayerMovement : MonoBehaviour {
 
     public NavMeshAgent agent;
     public Camera cam;
+    public Animator anim;
 	// Use this for initialization
 	void Start () {
         agent = GetComponent<NavMeshAgent>();
@@ -23,6 +24,7 @@ public class PlayerMovement : MonoBehaviour {
                 agent.SetDestination(hit.point);
             }
         }
-
+        var speedPercent = agent.velocity.magnitude / agent.speed;
+        anim.SetFloat("Speed", speedPercent);
     }
 }
