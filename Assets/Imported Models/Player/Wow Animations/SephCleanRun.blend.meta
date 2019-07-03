@@ -1,0 +1,2349 @@
+fileFormatVersion: 2
+guid: 78dffbb568677f441ae41e3b2c7b60af
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character_bloodelf_male_bloodelfmale_hd
+    100002: character_bloodelf_male_bloodelfmale_hd_001
+    100004: character_bloodelf_male_bloodelfmale_hd_bone_0
+    100006: character_bloodelf_male_bloodelfmale_hd_bone_1
+    100008: character_bloodelf_male_bloodelfmale_hd_bone_10
+    100010: character_bloodelf_male_bloodelfmale_hd_bone_100
+    100012: character_bloodelf_male_bloodelfmale_hd_bone_101
+    100014: character_bloodelf_male_bloodelfmale_hd_bone_102
+    100016: character_bloodelf_male_bloodelfmale_hd_bone_103
+    100018: character_bloodelf_male_bloodelfmale_hd_bone_104
+    100020: character_bloodelf_male_bloodelfmale_hd_bone_105
+    100022: character_bloodelf_male_bloodelfmale_hd_bone_106
+    100024: character_bloodelf_male_bloodelfmale_hd_bone_107
+    100026: character_bloodelf_male_bloodelfmale_hd_bone_108
+    100028: character_bloodelf_male_bloodelfmale_hd_bone_109
+    100030: character_bloodelf_male_bloodelfmale_hd_bone_11
+    100032: character_bloodelf_male_bloodelfmale_hd_bone_110
+    100034: character_bloodelf_male_bloodelfmale_hd_bone_111
+    100036: character_bloodelf_male_bloodelfmale_hd_bone_112
+    100038: character_bloodelf_male_bloodelfmale_hd_bone_113
+    100040: character_bloodelf_male_bloodelfmale_hd_bone_114
+    100042: character_bloodelf_male_bloodelfmale_hd_bone_115
+    100044: character_bloodelf_male_bloodelfmale_hd_bone_116
+    100046: character_bloodelf_male_bloodelfmale_hd_bone_117
+    100048: character_bloodelf_male_bloodelfmale_hd_bone_118
+    100050: character_bloodelf_male_bloodelfmale_hd_bone_119
+    100052: character_bloodelf_male_bloodelfmale_hd_bone_12
+    100054: character_bloodelf_male_bloodelfmale_hd_bone_120
+    100056: character_bloodelf_male_bloodelfmale_hd_bone_121
+    100058: character_bloodelf_male_bloodelfmale_hd_bone_122
+    100060: character_bloodelf_male_bloodelfmale_hd_bone_123
+    100062: character_bloodelf_male_bloodelfmale_hd_bone_124
+    100064: character_bloodelf_male_bloodelfmale_hd_bone_125
+    100066: character_bloodelf_male_bloodelfmale_hd_bone_126
+    100068: character_bloodelf_male_bloodelfmale_hd_bone_127
+    100070: character_bloodelf_male_bloodelfmale_hd_bone_128
+    100072: character_bloodelf_male_bloodelfmale_hd_bone_129
+    100074: character_bloodelf_male_bloodelfmale_hd_bone_13
+    100076: character_bloodelf_male_bloodelfmale_hd_bone_130
+    100078: character_bloodelf_male_bloodelfmale_hd_bone_131
+    100080: character_bloodelf_male_bloodelfmale_hd_bone_132
+    100082: character_bloodelf_male_bloodelfmale_hd_bone_133
+    100084: character_bloodelf_male_bloodelfmale_hd_bone_134
+    100086: character_bloodelf_male_bloodelfmale_hd_bone_135
+    100088: character_bloodelf_male_bloodelfmale_hd_bone_136
+    100090: character_bloodelf_male_bloodelfmale_hd_bone_137
+    100092: character_bloodelf_male_bloodelfmale_hd_bone_138
+    100094: character_bloodelf_male_bloodelfmale_hd_bone_139
+    100096: character_bloodelf_male_bloodelfmale_hd_bone_14
+    100098: character_bloodelf_male_bloodelfmale_hd_bone_140
+    100100: character_bloodelf_male_bloodelfmale_hd_bone_141
+    100102: character_bloodelf_male_bloodelfmale_hd_bone_142
+    100104: character_bloodelf_male_bloodelfmale_hd_bone_143
+    100106: character_bloodelf_male_bloodelfmale_hd_bone_144
+    100108: character_bloodelf_male_bloodelfmale_hd_bone_145
+    100110: character_bloodelf_male_bloodelfmale_hd_bone_146
+    100112: character_bloodelf_male_bloodelfmale_hd_bone_147
+    100114: character_bloodelf_male_bloodelfmale_hd_bone_148
+    100116: character_bloodelf_male_bloodelfmale_hd_bone_149
+    100118: character_bloodelf_male_bloodelfmale_hd_bone_15
+    100120: character_bloodelf_male_bloodelfmale_hd_bone_150
+    100122: character_bloodelf_male_bloodelfmale_hd_bone_151
+    100124: character_bloodelf_male_bloodelfmale_hd_bone_152
+    100126: character_bloodelf_male_bloodelfmale_hd_bone_153
+    100128: character_bloodelf_male_bloodelfmale_hd_bone_154
+    100130: character_bloodelf_male_bloodelfmale_hd_bone_155
+    100132: character_bloodelf_male_bloodelfmale_hd_bone_156
+    100134: character_bloodelf_male_bloodelfmale_hd_bone_157
+    100136: character_bloodelf_male_bloodelfmale_hd_bone_158
+    100138: character_bloodelf_male_bloodelfmale_hd_bone_159
+    100140: character_bloodelf_male_bloodelfmale_hd_bone_16
+    100142: character_bloodelf_male_bloodelfmale_hd_bone_160
+    100144: character_bloodelf_male_bloodelfmale_hd_bone_161
+    100146: character_bloodelf_male_bloodelfmale_hd_bone_162
+    100148: character_bloodelf_male_bloodelfmale_hd_bone_163
+    100150: character_bloodelf_male_bloodelfmale_hd_bone_164
+    100152: character_bloodelf_male_bloodelfmale_hd_bone_165
+    100154: character_bloodelf_male_bloodelfmale_hd_bone_166
+    100156: character_bloodelf_male_bloodelfmale_hd_bone_167
+    100158: character_bloodelf_male_bloodelfmale_hd_bone_168
+    100160: character_bloodelf_male_bloodelfmale_hd_bone_169
+    100162: character_bloodelf_male_bloodelfmale_hd_bone_17
+    100164: character_bloodelf_male_bloodelfmale_hd_bone_170
+    100166: character_bloodelf_male_bloodelfmale_hd_bone_171
+    100168: character_bloodelf_male_bloodelfmale_hd_bone_172
+    100170: character_bloodelf_male_bloodelfmale_hd_bone_173
+    100172: character_bloodelf_male_bloodelfmale_hd_bone_174
+    100174: character_bloodelf_male_bloodelfmale_hd_bone_175
+    100176: character_bloodelf_male_bloodelfmale_hd_bone_176
+    100178: character_bloodelf_male_bloodelfmale_hd_bone_177
+    100180: character_bloodelf_male_bloodelfmale_hd_bone_178
+    100182: character_bloodelf_male_bloodelfmale_hd_bone_179
+    100184: character_bloodelf_male_bloodelfmale_hd_bone_18
+    100186: character_bloodelf_male_bloodelfmale_hd_bone_180
+    100188: character_bloodelf_male_bloodelfmale_hd_bone_181
+    100190: character_bloodelf_male_bloodelfmale_hd_bone_182
+    100192: character_bloodelf_male_bloodelfmale_hd_bone_183
+    100194: character_bloodelf_male_bloodelfmale_hd_bone_184
+    100196: character_bloodelf_male_bloodelfmale_hd_bone_185
+    100198: character_bloodelf_male_bloodelfmale_hd_bone_186
+    100200: character_bloodelf_male_bloodelfmale_hd_bone_187
+    100202: character_bloodelf_male_bloodelfmale_hd_bone_188
+    100204: character_bloodelf_male_bloodelfmale_hd_bone_189
+    100206: character_bloodelf_male_bloodelfmale_hd_bone_19
+    100208: character_bloodelf_male_bloodelfmale_hd_bone_190
+    100210: character_bloodelf_male_bloodelfmale_hd_bone_191
+    100212: character_bloodelf_male_bloodelfmale_hd_bone_192
+    100214: character_bloodelf_male_bloodelfmale_hd_bone_193
+    100216: character_bloodelf_male_bloodelfmale_hd_bone_194
+    100218: character_bloodelf_male_bloodelfmale_hd_bone_195
+    100220: character_bloodelf_male_bloodelfmale_hd_bone_196
+    100222: character_bloodelf_male_bloodelfmale_hd_bone_197
+    100224: character_bloodelf_male_bloodelfmale_hd_bone_198
+    100226: character_bloodelf_male_bloodelfmale_hd_bone_199
+    100228: character_bloodelf_male_bloodelfmale_hd_bone_2
+    100230: character_bloodelf_male_bloodelfmale_hd_bone_20
+    100232: character_bloodelf_male_bloodelfmale_hd_bone_200
+    100234: character_bloodelf_male_bloodelfmale_hd_bone_201
+    100236: character_bloodelf_male_bloodelfmale_hd_bone_202
+    100238: character_bloodelf_male_bloodelfmale_hd_bone_203
+    100240: character_bloodelf_male_bloodelfmale_hd_bone_204
+    100242: character_bloodelf_male_bloodelfmale_hd_bone_205
+    100244: character_bloodelf_male_bloodelfmale_hd_bone_206
+    100246: character_bloodelf_male_bloodelfmale_hd_bone_207
+    100248: character_bloodelf_male_bloodelfmale_hd_bone_208
+    100250: character_bloodelf_male_bloodelfmale_hd_bone_209
+    100252: character_bloodelf_male_bloodelfmale_hd_bone_21
+    100254: character_bloodelf_male_bloodelfmale_hd_bone_210
+    100256: character_bloodelf_male_bloodelfmale_hd_bone_211
+    100258: character_bloodelf_male_bloodelfmale_hd_bone_212
+    100260: character_bloodelf_male_bloodelfmale_hd_bone_213
+    100262: character_bloodelf_male_bloodelfmale_hd_bone_214
+    100264: character_bloodelf_male_bloodelfmale_hd_bone_215
+    100266: character_bloodelf_male_bloodelfmale_hd_bone_216
+    100268: character_bloodelf_male_bloodelfmale_hd_bone_217
+    100270: character_bloodelf_male_bloodelfmale_hd_bone_218
+    100272: character_bloodelf_male_bloodelfmale_hd_bone_219
+    100274: character_bloodelf_male_bloodelfmale_hd_bone_22
+    100276: character_bloodelf_male_bloodelfmale_hd_bone_220
+    100278: character_bloodelf_male_bloodelfmale_hd_bone_221
+    100280: character_bloodelf_male_bloodelfmale_hd_bone_222
+    100282: character_bloodelf_male_bloodelfmale_hd_bone_223
+    100284: character_bloodelf_male_bloodelfmale_hd_bone_224
+    100286: character_bloodelf_male_bloodelfmale_hd_bone_225
+    100288: character_bloodelf_male_bloodelfmale_hd_bone_226
+    100290: character_bloodelf_male_bloodelfmale_hd_bone_227
+    100292: character_bloodelf_male_bloodelfmale_hd_bone_228
+    100294: character_bloodelf_male_bloodelfmale_hd_bone_229
+    100296: character_bloodelf_male_bloodelfmale_hd_bone_23
+    100298: character_bloodelf_male_bloodelfmale_hd_bone_230
+    100300: character_bloodelf_male_bloodelfmale_hd_bone_231
+    100302: character_bloodelf_male_bloodelfmale_hd_bone_232
+    100304: character_bloodelf_male_bloodelfmale_hd_bone_233
+    100306: character_bloodelf_male_bloodelfmale_hd_bone_234
+    100308: character_bloodelf_male_bloodelfmale_hd_bone_235
+    100310: character_bloodelf_male_bloodelfmale_hd_bone_236
+    100312: character_bloodelf_male_bloodelfmale_hd_bone_237
+    100314: character_bloodelf_male_bloodelfmale_hd_bone_238
+    100316: character_bloodelf_male_bloodelfmale_hd_bone_239
+    100318: character_bloodelf_male_bloodelfmale_hd_bone_24
+    100320: character_bloodelf_male_bloodelfmale_hd_bone_240
+    100322: character_bloodelf_male_bloodelfmale_hd_bone_241
+    100324: character_bloodelf_male_bloodelfmale_hd_bone_242
+    100326: character_bloodelf_male_bloodelfmale_hd_bone_243
+    100328: character_bloodelf_male_bloodelfmale_hd_bone_244
+    100330: character_bloodelf_male_bloodelfmale_hd_bone_245
+    100332: character_bloodelf_male_bloodelfmale_hd_bone_246
+    100334: character_bloodelf_male_bloodelfmale_hd_bone_247
+    100336: character_bloodelf_male_bloodelfmale_hd_bone_248
+    100338: character_bloodelf_male_bloodelfmale_hd_bone_249
+    100340: character_bloodelf_male_bloodelfmale_hd_bone_25
+    100342: character_bloodelf_male_bloodelfmale_hd_bone_250
+    100344: character_bloodelf_male_bloodelfmale_hd_bone_251
+    100346: character_bloodelf_male_bloodelfmale_hd_bone_26
+    100348: character_bloodelf_male_bloodelfmale_hd_bone_27
+    100350: character_bloodelf_male_bloodelfmale_hd_bone_28
+    100352: character_bloodelf_male_bloodelfmale_hd_bone_29
+    100354: character_bloodelf_male_bloodelfmale_hd_bone_3
+    100356: character_bloodelf_male_bloodelfmale_hd_bone_30
+    100358: character_bloodelf_male_bloodelfmale_hd_bone_31
+    100360: character_bloodelf_male_bloodelfmale_hd_bone_32
+    100362: character_bloodelf_male_bloodelfmale_hd_bone_33
+    100364: character_bloodelf_male_bloodelfmale_hd_bone_34
+    100366: character_bloodelf_male_bloodelfmale_hd_bone_35
+    100368: character_bloodelf_male_bloodelfmale_hd_bone_36
+    100370: character_bloodelf_male_bloodelfmale_hd_bone_37
+    100372: character_bloodelf_male_bloodelfmale_hd_bone_38
+    100374: character_bloodelf_male_bloodelfmale_hd_bone_39
+    100376: character_bloodelf_male_bloodelfmale_hd_bone_4
+    100378: character_bloodelf_male_bloodelfmale_hd_bone_40
+    100380: character_bloodelf_male_bloodelfmale_hd_bone_41
+    100382: character_bloodelf_male_bloodelfmale_hd_bone_42
+    100384: character_bloodelf_male_bloodelfmale_hd_bone_43
+    100386: character_bloodelf_male_bloodelfmale_hd_bone_44
+    100388: character_bloodelf_male_bloodelfmale_hd_bone_45
+    100390: character_bloodelf_male_bloodelfmale_hd_bone_46
+    100392: character_bloodelf_male_bloodelfmale_hd_bone_47
+    100394: character_bloodelf_male_bloodelfmale_hd_bone_48
+    100396: character_bloodelf_male_bloodelfmale_hd_bone_49
+    100398: character_bloodelf_male_bloodelfmale_hd_bone_5
+    100400: character_bloodelf_male_bloodelfmale_hd_bone_50
+    100402: character_bloodelf_male_bloodelfmale_hd_bone_51
+    100404: character_bloodelf_male_bloodelfmale_hd_bone_52
+    100406: character_bloodelf_male_bloodelfmale_hd_bone_53
+    100408: character_bloodelf_male_bloodelfmale_hd_bone_54
+    100410: character_bloodelf_male_bloodelfmale_hd_bone_55
+    100412: character_bloodelf_male_bloodelfmale_hd_bone_56
+    100414: character_bloodelf_male_bloodelfmale_hd_bone_57
+    100416: character_bloodelf_male_bloodelfmale_hd_bone_58
+    100418: character_bloodelf_male_bloodelfmale_hd_bone_59
+    100420: character_bloodelf_male_bloodelfmale_hd_bone_6
+    100422: character_bloodelf_male_bloodelfmale_hd_bone_60
+    100424: character_bloodelf_male_bloodelfmale_hd_bone_61
+    100426: character_bloodelf_male_bloodelfmale_hd_bone_62
+    100428: character_bloodelf_male_bloodelfmale_hd_bone_63
+    100430: character_bloodelf_male_bloodelfmale_hd_bone_64
+    100432: character_bloodelf_male_bloodelfmale_hd_bone_65
+    100434: character_bloodelf_male_bloodelfmale_hd_bone_66
+    100436: character_bloodelf_male_bloodelfmale_hd_bone_67
+    100438: character_bloodelf_male_bloodelfmale_hd_bone_68
+    100440: character_bloodelf_male_bloodelfmale_hd_bone_69
+    100442: character_bloodelf_male_bloodelfmale_hd_bone_7
+    100444: character_bloodelf_male_bloodelfmale_hd_bone_70
+    100446: character_bloodelf_male_bloodelfmale_hd_bone_71
+    100448: character_bloodelf_male_bloodelfmale_hd_bone_72
+    100450: character_bloodelf_male_bloodelfmale_hd_bone_73
+    100452: character_bloodelf_male_bloodelfmale_hd_bone_74
+    100454: character_bloodelf_male_bloodelfmale_hd_bone_75
+    100456: character_bloodelf_male_bloodelfmale_hd_bone_76
+    100458: character_bloodelf_male_bloodelfmale_hd_bone_77
+    100460: character_bloodelf_male_bloodelfmale_hd_bone_78
+    100462: character_bloodelf_male_bloodelfmale_hd_bone_79
+    100464: character_bloodelf_male_bloodelfmale_hd_bone_8
+    100466: character_bloodelf_male_bloodelfmale_hd_bone_80
+    100468: character_bloodelf_male_bloodelfmale_hd_bone_81
+    100470: character_bloodelf_male_bloodelfmale_hd_bone_82
+    100472: character_bloodelf_male_bloodelfmale_hd_bone_83
+    100474: character_bloodelf_male_bloodelfmale_hd_bone_84
+    100476: character_bloodelf_male_bloodelfmale_hd_bone_85
+    100478: character_bloodelf_male_bloodelfmale_hd_bone_86
+    100480: character_bloodelf_male_bloodelfmale_hd_bone_87
+    100482: character_bloodelf_male_bloodelfmale_hd_bone_88
+    100484: character_bloodelf_male_bloodelfmale_hd_bone_89
+    100486: character_bloodelf_male_bloodelfmale_hd_bone_9
+    100488: character_bloodelf_male_bloodelfmale_hd_bone_90
+    100490: character_bloodelf_male_bloodelfmale_hd_bone_91
+    100492: character_bloodelf_male_bloodelfmale_hd_bone_92
+    100494: character_bloodelf_male_bloodelfmale_hd_bone_93
+    100496: character_bloodelf_male_bloodelfmale_hd_bone_94
+    100498: character_bloodelf_male_bloodelfmale_hd_bone_95
+    100500: character_bloodelf_male_bloodelfmale_hd_bone_96
+    100502: character_bloodelf_male_bloodelfmale_hd_bone_97
+    100504: character_bloodelf_male_bloodelfmale_hd_bone_98
+    100506: character_bloodelf_male_bloodelfmale_hd_bone_99
+    100508: //RootNode
+    400000: character_bloodelf_male_bloodelfmale_hd
+    400002: character_bloodelf_male_bloodelfmale_hd_001
+    400004: character_bloodelf_male_bloodelfmale_hd_bone_0
+    400006: character_bloodelf_male_bloodelfmale_hd_bone_1
+    400008: character_bloodelf_male_bloodelfmale_hd_bone_10
+    400010: character_bloodelf_male_bloodelfmale_hd_bone_100
+    400012: character_bloodelf_male_bloodelfmale_hd_bone_101
+    400014: character_bloodelf_male_bloodelfmale_hd_bone_102
+    400016: character_bloodelf_male_bloodelfmale_hd_bone_103
+    400018: character_bloodelf_male_bloodelfmale_hd_bone_104
+    400020: character_bloodelf_male_bloodelfmale_hd_bone_105
+    400022: character_bloodelf_male_bloodelfmale_hd_bone_106
+    400024: character_bloodelf_male_bloodelfmale_hd_bone_107
+    400026: character_bloodelf_male_bloodelfmale_hd_bone_108
+    400028: character_bloodelf_male_bloodelfmale_hd_bone_109
+    400030: character_bloodelf_male_bloodelfmale_hd_bone_11
+    400032: character_bloodelf_male_bloodelfmale_hd_bone_110
+    400034: character_bloodelf_male_bloodelfmale_hd_bone_111
+    400036: character_bloodelf_male_bloodelfmale_hd_bone_112
+    400038: character_bloodelf_male_bloodelfmale_hd_bone_113
+    400040: character_bloodelf_male_bloodelfmale_hd_bone_114
+    400042: character_bloodelf_male_bloodelfmale_hd_bone_115
+    400044: character_bloodelf_male_bloodelfmale_hd_bone_116
+    400046: character_bloodelf_male_bloodelfmale_hd_bone_117
+    400048: character_bloodelf_male_bloodelfmale_hd_bone_118
+    400050: character_bloodelf_male_bloodelfmale_hd_bone_119
+    400052: character_bloodelf_male_bloodelfmale_hd_bone_12
+    400054: character_bloodelf_male_bloodelfmale_hd_bone_120
+    400056: character_bloodelf_male_bloodelfmale_hd_bone_121
+    400058: character_bloodelf_male_bloodelfmale_hd_bone_122
+    400060: character_bloodelf_male_bloodelfmale_hd_bone_123
+    400062: character_bloodelf_male_bloodelfmale_hd_bone_124
+    400064: character_bloodelf_male_bloodelfmale_hd_bone_125
+    400066: character_bloodelf_male_bloodelfmale_hd_bone_126
+    400068: character_bloodelf_male_bloodelfmale_hd_bone_127
+    400070: character_bloodelf_male_bloodelfmale_hd_bone_128
+    400072: character_bloodelf_male_bloodelfmale_hd_bone_129
+    400074: character_bloodelf_male_bloodelfmale_hd_bone_13
+    400076: character_bloodelf_male_bloodelfmale_hd_bone_130
+    400078: character_bloodelf_male_bloodelfmale_hd_bone_131
+    400080: character_bloodelf_male_bloodelfmale_hd_bone_132
+    400082: character_bloodelf_male_bloodelfmale_hd_bone_133
+    400084: character_bloodelf_male_bloodelfmale_hd_bone_134
+    400086: character_bloodelf_male_bloodelfmale_hd_bone_135
+    400088: character_bloodelf_male_bloodelfmale_hd_bone_136
+    400090: character_bloodelf_male_bloodelfmale_hd_bone_137
+    400092: character_bloodelf_male_bloodelfmale_hd_bone_138
+    400094: character_bloodelf_male_bloodelfmale_hd_bone_139
+    400096: character_bloodelf_male_bloodelfmale_hd_bone_14
+    400098: character_bloodelf_male_bloodelfmale_hd_bone_140
+    400100: character_bloodelf_male_bloodelfmale_hd_bone_141
+    400102: character_bloodelf_male_bloodelfmale_hd_bone_142
+    400104: character_bloodelf_male_bloodelfmale_hd_bone_143
+    400106: character_bloodelf_male_bloodelfmale_hd_bone_144
+    400108: character_bloodelf_male_bloodelfmale_hd_bone_145
+    400110: character_bloodelf_male_bloodelfmale_hd_bone_146
+    400112: character_bloodelf_male_bloodelfmale_hd_bone_147
+    400114: character_bloodelf_male_bloodelfmale_hd_bone_148
+    400116: character_bloodelf_male_bloodelfmale_hd_bone_149
+    400118: character_bloodelf_male_bloodelfmale_hd_bone_15
+    400120: character_bloodelf_male_bloodelfmale_hd_bone_150
+    400122: character_bloodelf_male_bloodelfmale_hd_bone_151
+    400124: character_bloodelf_male_bloodelfmale_hd_bone_152
+    400126: character_bloodelf_male_bloodelfmale_hd_bone_153
+    400128: character_bloodelf_male_bloodelfmale_hd_bone_154
+    400130: character_bloodelf_male_bloodelfmale_hd_bone_155
+    400132: character_bloodelf_male_bloodelfmale_hd_bone_156
+    400134: character_bloodelf_male_bloodelfmale_hd_bone_157
+    400136: character_bloodelf_male_bloodelfmale_hd_bone_158
+    400138: character_bloodelf_male_bloodelfmale_hd_bone_159
+    400140: character_bloodelf_male_bloodelfmale_hd_bone_16
+    400142: character_bloodelf_male_bloodelfmale_hd_bone_160
+    400144: character_bloodelf_male_bloodelfmale_hd_bone_161
+    400146: character_bloodelf_male_bloodelfmale_hd_bone_162
+    400148: character_bloodelf_male_bloodelfmale_hd_bone_163
+    400150: character_bloodelf_male_bloodelfmale_hd_bone_164
+    400152: character_bloodelf_male_bloodelfmale_hd_bone_165
+    400154: character_bloodelf_male_bloodelfmale_hd_bone_166
+    400156: character_bloodelf_male_bloodelfmale_hd_bone_167
+    400158: character_bloodelf_male_bloodelfmale_hd_bone_168
+    400160: character_bloodelf_male_bloodelfmale_hd_bone_169
+    400162: character_bloodelf_male_bloodelfmale_hd_bone_17
+    400164: character_bloodelf_male_bloodelfmale_hd_bone_170
+    400166: character_bloodelf_male_bloodelfmale_hd_bone_171
+    400168: character_bloodelf_male_bloodelfmale_hd_bone_172
+    400170: character_bloodelf_male_bloodelfmale_hd_bone_173
+    400172: character_bloodelf_male_bloodelfmale_hd_bone_174
+    400174: character_bloodelf_male_bloodelfmale_hd_bone_175
+    400176: character_bloodelf_male_bloodelfmale_hd_bone_176
+    400178: character_bloodelf_male_bloodelfmale_hd_bone_177
+    400180: character_bloodelf_male_bloodelfmale_hd_bone_178
+    400182: character_bloodelf_male_bloodelfmale_hd_bone_179
+    400184: character_bloodelf_male_bloodelfmale_hd_bone_18
+    400186: character_bloodelf_male_bloodelfmale_hd_bone_180
+    400188: character_bloodelf_male_bloodelfmale_hd_bone_181
+    400190: character_bloodelf_male_bloodelfmale_hd_bone_182
+    400192: character_bloodelf_male_bloodelfmale_hd_bone_183
+    400194: character_bloodelf_male_bloodelfmale_hd_bone_184
+    400196: character_bloodelf_male_bloodelfmale_hd_bone_185
+    400198: character_bloodelf_male_bloodelfmale_hd_bone_186
+    400200: character_bloodelf_male_bloodelfmale_hd_bone_187
+    400202: character_bloodelf_male_bloodelfmale_hd_bone_188
+    400204: character_bloodelf_male_bloodelfmale_hd_bone_189
+    400206: character_bloodelf_male_bloodelfmale_hd_bone_19
+    400208: character_bloodelf_male_bloodelfmale_hd_bone_190
+    400210: character_bloodelf_male_bloodelfmale_hd_bone_191
+    400212: character_bloodelf_male_bloodelfmale_hd_bone_192
+    400214: character_bloodelf_male_bloodelfmale_hd_bone_193
+    400216: character_bloodelf_male_bloodelfmale_hd_bone_194
+    400218: character_bloodelf_male_bloodelfmale_hd_bone_195
+    400220: character_bloodelf_male_bloodelfmale_hd_bone_196
+    400222: character_bloodelf_male_bloodelfmale_hd_bone_197
+    400224: character_bloodelf_male_bloodelfmale_hd_bone_198
+    400226: character_bloodelf_male_bloodelfmale_hd_bone_199
+    400228: character_bloodelf_male_bloodelfmale_hd_bone_2
+    400230: character_bloodelf_male_bloodelfmale_hd_bone_20
+    400232: character_bloodelf_male_bloodelfmale_hd_bone_200
+    400234: character_bloodelf_male_bloodelfmale_hd_bone_201
+    400236: character_bloodelf_male_bloodelfmale_hd_bone_202
+    400238: character_bloodelf_male_bloodelfmale_hd_bone_203
+    400240: character_bloodelf_male_bloodelfmale_hd_bone_204
+    400242: character_bloodelf_male_bloodelfmale_hd_bone_205
+    400244: character_bloodelf_male_bloodelfmale_hd_bone_206
+    400246: character_bloodelf_male_bloodelfmale_hd_bone_207
+    400248: character_bloodelf_male_bloodelfmale_hd_bone_208
+    400250: character_bloodelf_male_bloodelfmale_hd_bone_209
+    400252: character_bloodelf_male_bloodelfmale_hd_bone_21
+    400254: character_bloodelf_male_bloodelfmale_hd_bone_210
+    400256: character_bloodelf_male_bloodelfmale_hd_bone_211
+    400258: character_bloodelf_male_bloodelfmale_hd_bone_212
+    400260: character_bloodelf_male_bloodelfmale_hd_bone_213
+    400262: character_bloodelf_male_bloodelfmale_hd_bone_214
+    400264: character_bloodelf_male_bloodelfmale_hd_bone_215
+    400266: character_bloodelf_male_bloodelfmale_hd_bone_216
+    400268: character_bloodelf_male_bloodelfmale_hd_bone_217
+    400270: character_bloodelf_male_bloodelfmale_hd_bone_218
+    400272: character_bloodelf_male_bloodelfmale_hd_bone_219
+    400274: character_bloodelf_male_bloodelfmale_hd_bone_22
+    400276: character_bloodelf_male_bloodelfmale_hd_bone_220
+    400278: character_bloodelf_male_bloodelfmale_hd_bone_221
+    400280: character_bloodelf_male_bloodelfmale_hd_bone_222
+    400282: character_bloodelf_male_bloodelfmale_hd_bone_223
+    400284: character_bloodelf_male_bloodelfmale_hd_bone_224
+    400286: character_bloodelf_male_bloodelfmale_hd_bone_225
+    400288: character_bloodelf_male_bloodelfmale_hd_bone_226
+    400290: character_bloodelf_male_bloodelfmale_hd_bone_227
+    400292: character_bloodelf_male_bloodelfmale_hd_bone_228
+    400294: character_bloodelf_male_bloodelfmale_hd_bone_229
+    400296: character_bloodelf_male_bloodelfmale_hd_bone_23
+    400298: character_bloodelf_male_bloodelfmale_hd_bone_230
+    400300: character_bloodelf_male_bloodelfmale_hd_bone_231
+    400302: character_bloodelf_male_bloodelfmale_hd_bone_232
+    400304: character_bloodelf_male_bloodelfmale_hd_bone_233
+    400306: character_bloodelf_male_bloodelfmale_hd_bone_234
+    400308: character_bloodelf_male_bloodelfmale_hd_bone_235
+    400310: character_bloodelf_male_bloodelfmale_hd_bone_236
+    400312: character_bloodelf_male_bloodelfmale_hd_bone_237
+    400314: character_bloodelf_male_bloodelfmale_hd_bone_238
+    400316: character_bloodelf_male_bloodelfmale_hd_bone_239
+    400318: character_bloodelf_male_bloodelfmale_hd_bone_24
+    400320: character_bloodelf_male_bloodelfmale_hd_bone_240
+    400322: character_bloodelf_male_bloodelfmale_hd_bone_241
+    400324: character_bloodelf_male_bloodelfmale_hd_bone_242
+    400326: character_bloodelf_male_bloodelfmale_hd_bone_243
+    400328: character_bloodelf_male_bloodelfmale_hd_bone_244
+    400330: character_bloodelf_male_bloodelfmale_hd_bone_245
+    400332: character_bloodelf_male_bloodelfmale_hd_bone_246
+    400334: character_bloodelf_male_bloodelfmale_hd_bone_247
+    400336: character_bloodelf_male_bloodelfmale_hd_bone_248
+    400338: character_bloodelf_male_bloodelfmale_hd_bone_249
+    400340: character_bloodelf_male_bloodelfmale_hd_bone_25
+    400342: character_bloodelf_male_bloodelfmale_hd_bone_250
+    400344: character_bloodelf_male_bloodelfmale_hd_bone_251
+    400346: character_bloodelf_male_bloodelfmale_hd_bone_26
+    400348: character_bloodelf_male_bloodelfmale_hd_bone_27
+    400350: character_bloodelf_male_bloodelfmale_hd_bone_28
+    400352: character_bloodelf_male_bloodelfmale_hd_bone_29
+    400354: character_bloodelf_male_bloodelfmale_hd_bone_3
+    400356: character_bloodelf_male_bloodelfmale_hd_bone_30
+    400358: character_bloodelf_male_bloodelfmale_hd_bone_31
+    400360: character_bloodelf_male_bloodelfmale_hd_bone_32
+    400362: character_bloodelf_male_bloodelfmale_hd_bone_33
+    400364: character_bloodelf_male_bloodelfmale_hd_bone_34
+    400366: character_bloodelf_male_bloodelfmale_hd_bone_35
+    400368: character_bloodelf_male_bloodelfmale_hd_bone_36
+    400370: character_bloodelf_male_bloodelfmale_hd_bone_37
+    400372: character_bloodelf_male_bloodelfmale_hd_bone_38
+    400374: character_bloodelf_male_bloodelfmale_hd_bone_39
+    400376: character_bloodelf_male_bloodelfmale_hd_bone_4
+    400378: character_bloodelf_male_bloodelfmale_hd_bone_40
+    400380: character_bloodelf_male_bloodelfmale_hd_bone_41
+    400382: character_bloodelf_male_bloodelfmale_hd_bone_42
+    400384: character_bloodelf_male_bloodelfmale_hd_bone_43
+    400386: character_bloodelf_male_bloodelfmale_hd_bone_44
+    400388: character_bloodelf_male_bloodelfmale_hd_bone_45
+    400390: character_bloodelf_male_bloodelfmale_hd_bone_46
+    400392: character_bloodelf_male_bloodelfmale_hd_bone_47
+    400394: character_bloodelf_male_bloodelfmale_hd_bone_48
+    400396: character_bloodelf_male_bloodelfmale_hd_bone_49
+    400398: character_bloodelf_male_bloodelfmale_hd_bone_5
+    400400: character_bloodelf_male_bloodelfmale_hd_bone_50
+    400402: character_bloodelf_male_bloodelfmale_hd_bone_51
+    400404: character_bloodelf_male_bloodelfmale_hd_bone_52
+    400406: character_bloodelf_male_bloodelfmale_hd_bone_53
+    400408: character_bloodelf_male_bloodelfmale_hd_bone_54
+    400410: character_bloodelf_male_bloodelfmale_hd_bone_55
+    400412: character_bloodelf_male_bloodelfmale_hd_bone_56
+    400414: character_bloodelf_male_bloodelfmale_hd_bone_57
+    400416: character_bloodelf_male_bloodelfmale_hd_bone_58
+    400418: character_bloodelf_male_bloodelfmale_hd_bone_59
+    400420: character_bloodelf_male_bloodelfmale_hd_bone_6
+    400422: character_bloodelf_male_bloodelfmale_hd_bone_60
+    400424: character_bloodelf_male_bloodelfmale_hd_bone_61
+    400426: character_bloodelf_male_bloodelfmale_hd_bone_62
+    400428: character_bloodelf_male_bloodelfmale_hd_bone_63
+    400430: character_bloodelf_male_bloodelfmale_hd_bone_64
+    400432: character_bloodelf_male_bloodelfmale_hd_bone_65
+    400434: character_bloodelf_male_bloodelfmale_hd_bone_66
+    400436: character_bloodelf_male_bloodelfmale_hd_bone_67
+    400438: character_bloodelf_male_bloodelfmale_hd_bone_68
+    400440: character_bloodelf_male_bloodelfmale_hd_bone_69
+    400442: character_bloodelf_male_bloodelfmale_hd_bone_7
+    400444: character_bloodelf_male_bloodelfmale_hd_bone_70
+    400446: character_bloodelf_male_bloodelfmale_hd_bone_71
+    400448: character_bloodelf_male_bloodelfmale_hd_bone_72
+    400450: character_bloodelf_male_bloodelfmale_hd_bone_73
+    400452: character_bloodelf_male_bloodelfmale_hd_bone_74
+    400454: character_bloodelf_male_bloodelfmale_hd_bone_75
+    400456: character_bloodelf_male_bloodelfmale_hd_bone_76
+    400458: character_bloodelf_male_bloodelfmale_hd_bone_77
+    400460: character_bloodelf_male_bloodelfmale_hd_bone_78
+    400462: character_bloodelf_male_bloodelfmale_hd_bone_79
+    400464: character_bloodelf_male_bloodelfmale_hd_bone_8
+    400466: character_bloodelf_male_bloodelfmale_hd_bone_80
+    400468: character_bloodelf_male_bloodelfmale_hd_bone_81
+    400470: character_bloodelf_male_bloodelfmale_hd_bone_82
+    400472: character_bloodelf_male_bloodelfmale_hd_bone_83
+    400474: character_bloodelf_male_bloodelfmale_hd_bone_84
+    400476: character_bloodelf_male_bloodelfmale_hd_bone_85
+    400478: character_bloodelf_male_bloodelfmale_hd_bone_86
+    400480: character_bloodelf_male_bloodelfmale_hd_bone_87
+    400482: character_bloodelf_male_bloodelfmale_hd_bone_88
+    400484: character_bloodelf_male_bloodelfmale_hd_bone_89
+    400486: character_bloodelf_male_bloodelfmale_hd_bone_9
+    400488: character_bloodelf_male_bloodelfmale_hd_bone_90
+    400490: character_bloodelf_male_bloodelfmale_hd_bone_91
+    400492: character_bloodelf_male_bloodelfmale_hd_bone_92
+    400494: character_bloodelf_male_bloodelfmale_hd_bone_93
+    400496: character_bloodelf_male_bloodelfmale_hd_bone_94
+    400498: character_bloodelf_male_bloodelfmale_hd_bone_95
+    400500: character_bloodelf_male_bloodelfmale_hd_bone_96
+    400502: character_bloodelf_male_bloodelfmale_hd_bone_97
+    400504: character_bloodelf_male_bloodelfmale_hd_bone_98
+    400506: character_bloodelf_male_bloodelfmale_hd_bone_99
+    400508: //RootNode
+    2100000: character_bloodelf_male_bloodelfmale_hd_1
+    2100002: character_bloodelf_male_bloodelfmale_hd_2
+    2100004: character_bloodelf_male_bloodelfmale_hd_5
+    2100006: character_bloodelf_male_bloodelfmale_hd_6
+    2100008: character_bloodelf_male_bloodelfmale_hd_8
+    2100010: character_bloodelf_male_bloodelfmale_hd_13
+    2100012: character_bloodelf_male_bloodelfmale_hd_15
+    2100014: character_bloodelf_male_bloodelfmale_hd_22
+    2100016: character_bloodelf_male_bloodelfmale_hd_28
+    2100018: character_bloodelf_male_bloodelfmale_hd_38
+    2100020: character_bloodelf_male_bloodelfmale_hd_39
+    2100022: character_bloodelf_male_bloodelfmale_hd_40
+    2100024: character_bloodelf_male_bloodelfmale_hd_59
+    2100026: character_bloodelf_male_bloodelfmale_hd_68
+    2100028: character_bloodelf_male_bloodelfmale_hd_76
+    2100030: character_bloodelf_male_bloodelfmale_hd_78
+    2100032: character_bloodelf_male_bloodelfmale_hd_81
+    4300000: character_bloodelf_male_bloodelfmale_hd_001
+    7400000: Default Take
+    7400002: character_bloodelf_male_bloodelfmale_hd_bone_0_Run__65__Run__65
+    9500000: //RootNode
+    13700000: character_bloodelf_male_bloodelfmale_hd_001
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'character_bloodelf_male_bloodelfmale_hd_bone_23'
+      : rotation error = 13.577332 deg\n\t'character_bloodelf_male_bloodelfmale_hd_bone_3'
+      : rotation error = 25.113619 deg\n\t'character_bloodelf_male_bloodelfmale_hd_bone_41'
+      : rotation error = 34.983044 deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_12'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_18'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_13'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_19'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_23'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_3'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_16'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_36'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_43'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_37'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_48'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_41'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_64'
+      has translation animation that will be discarded.\n\nClip 'character_bloodelf_male_bloodelfmale_hd_bone_0_Run__65__Run__65'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_12'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_18'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_13'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_19'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_23'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_3'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_3'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_16'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_36'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_43'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_37'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_48'
+      has translation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_41'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'character_bloodelf_male_bloodelfmale_hd_bone_64'
+      has translation animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 17
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: character_bloodelf_male_bloodelfmale_hd_bone_0_Run__65__Run__65
+      takeName: character_bloodelf_male_bloodelfmale_hd_bone_0_Run__65__Run__65
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_1
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_7
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_5
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_13
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_12
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_19
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_22
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_9
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_27
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_33
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_24
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_25
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_30
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_31
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_37
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_29
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_28
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_91
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_84
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_64
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_106
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_139
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_105
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_138
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_109
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_141
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_108
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_140
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_104
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_137
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_116
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_145
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_113
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_144
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_112
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_143
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_111
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_142
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_117
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_146
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_21
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: SephCleanRun(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_001
+      parentName: SephCleanRun(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd
+      parentName: SephCleanRun(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_0
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_1
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_0
+      position: {x: 0.00000074505806, y: 65.3913, z: -0.22514689}
+      rotation: {x: -0.50000006, y: 0.49999994, z: -0.50000006, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_2
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_1
+      position: {x: 1.1152337, y: -0.76550955, z: 0}
+      rotation: {x: -0, y: -0, z: -1.7763568e-15, w: 1}
+      scale: {x: 0.99999994, y: 0.99999976, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_4
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 1.3053814, y: -6.0553637, z: 1.387006}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000011, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_10
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_4
+      position: {x: 9.601912, y: -0.0000027418137, z: 0.00000166893}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_17
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_10
+      position: {x: 9.479323, y: -0.0000013113022, z: 0.0000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999994, y: 0.9999993, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_5
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 5.3604717, y: -0.54033893, z: 5.6052785}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_11
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_5
+      position: {x: 24.742237, y: 2.9775739, z: 2.3200822}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_12
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_5
+      position: {x: 24.742237, y: 2.9775739, z: 2.3200822}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_18
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_12
+      position: {x: 26.208567, y: 3.7810807, z: 2.4575827}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_22
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_18
+      position: {x: -0.0000030398369, y: -0.0000014156103, z: 0.000000029802322}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.99999946, y: 0.99999964, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_28
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_22
+      position: {x: 5.018112, y: -11.869364, z: 0.032485545}
+      rotation: {x: 6.9286745e-15, y: 0.00000007749591, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_226
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_22
+      position: {x: -0.0000030100346, y: -0.0000007003546, z: -0.0000009536743}
+      rotation: {x: 1.0469145e-14, y: 0.00000007735898, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0804715, y: 1.0804816, z: 1.0804696}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_228
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_22
+      position: {x: 6.797648, y: -7.970868, z: -0.0000030994415}
+      rotation: {x: 1.0469145e-14, y: 0.00000007735898, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_210
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_12
+      position: {x: -0.000009745359, y: 0.000010073185, z: -0.0000010170043}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_206
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_5
+      position: {x: -0.43786716, y: 3.9524817, z: 6.2990923}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_6
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: -0.9895347, y: -5.7039366, z: -0.0000004172325}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_205
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_6
+      position: {x: 0.00001780875, y: 0.0000011771917, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.85038763, y: 0.8503871, z: 0.8503871}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_7
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 5.3604326, y: -0.54033864, z: -5.6052794}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_13
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_7
+      position: {x: 24.742262, y: 2.9775727, z: -2.3200772}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_19
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_13
+      position: {x: 26.208746, y: 3.781085, z: -2.45759}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_23
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_19
+      position: {x: 0.0000022649765, y: 0.0000027120113, z: 0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_29
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_23
+      position: {x: 5.0181, y: -11.86936, z: -0.032481372}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_225
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_23
+      position: {x: 6.7976484, y: -7.9706798, z: -0.0000006556511}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000007, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_227
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_23
+      position: {x: -0.0000009536743, y: 0.0000015497208, z: 0.0000005364418}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0804697, y: 1.0804809, z: 1.080471}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_213
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_13
+      position: {x: 0.000006198883, y: 0.000008165836, z: 0.0000039339066}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_14
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_7
+      position: {x: 24.742262, y: 2.9775727, z: -2.3200772}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_204
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_7
+      position: {x: -0.43783307, y: 3.9524848, z: -6.299087}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000011, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_8
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 1.294547, y: 8.372448, z: 0.000000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_15
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_8
+      position: {x: 9.589125, y: 0.0000010766089, z: 0.00000017881393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_20
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_15
+      position: {x: 9.421325, y: -0.0000039488077, z: 0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_201
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 3.3036659, y: 0.026179552, z: -10.6055565}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_202
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_2
+      position: {x: 3.3036726, y: 0.026179671, z: 10.606222}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_3
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_1
+      position: {x: -0.47665465, y: 0.34955427, z: 0.033159733}
+      rotation: {x: -0, y: -0, z: -1.7763568e-15, w: 1}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_9
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_3
+      position: {x: -3.4055665, y: 0.8980679, z: -0.000000074505806}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_16
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_9
+      position: {x: -3.1842434, y: 1.1403646, z: 0.00000026077032}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_21
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -5.637037, y: 1.5658462, z: -0.0000004172325}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999996, y: 0.99999994, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_24
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_21
+      position: {x: -7.964127, y: -1.2425486, z: -2.632239}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_30
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_24
+      position: {x: -0.75656986, y: 0.49611473, z: -8.125178}
+      rotation: {x: -0.068541594, y: 0.43257788, z: -0.000000059604645, w: 0.8989875}
+      scale: {x: 1.0000006, y: 1, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_34
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_30
+      position: {x: 13.032927, y: 2.0650554, z: -9.503772}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_35
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_30
+      position: {x: 6.5164604, y: 1.0325325, z: -4.751893}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_36
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_30
+      position: {x: 13.032927, y: 2.0650554, z: -9.503772}
+      rotation: {x: 0.11448078, y: 0.016549408, z: 0.14776903, w: 0.98223454}
+      scale: {x: 1.0000001, y: 0.99999964, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_42
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      position: {x: 9.590786, y: -0.55293024, z: -13.345728}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_239
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_42
+      position: {x: -0.000012010336, y: -0.0000011622906, z: -0.0000004172325}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_250
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_239
+      position: {x: 0.000010967255, y: 0.00000035762787, z: -0.0000004246831}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_43
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      position: {x: 12.105478, y: -4.9162064, z: -8.827857}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999994, y: 0.9999996, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_104
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 6.5146875, y: 0.70603395, z: -3.9525502}
+      rotation: {x: -0.025424058, y: 0.0617467, z: -0.09383431, w: 0.99334586}
+      scale: {x: 1.0000012, y: 1.0000008, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_137
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_104
+      position: {x: 2.256585, y: -0.30057967, z: -0.8092161}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_105
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 5.979365, y: -5.35565, z: -3.2881875}
+      rotation: {x: 0.023671538, y: 0.13366222, z: -0.08073889, w: 0.9874489}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_138
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_105
+      position: {x: 2.9555323, y: -0.740114, z: -0.35873163}
+      rotation: {x: -4.421257e-15, y: 0.000000029143369, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000011, y: 1.0000012, z: 1.0000011}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_106
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 2.3605957, y: -3.2570846, z: 0.15629458}
+      rotation: {x: 0.06727318, y: 0.09780362, z: -0.3663158, w: 0.9228876}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_139
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_106
+      position: {x: 3.830565, y: -1.6581306, z: 0.26077366}
+      rotation: {x: 2.278479e-15, y: -1.7763566e-15, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000013, y: 1.0000018, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_107
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 6.2091637, y: -2.4637742, z: -0.8327372}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_247
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_107
+      position: {x: 0.000009004027, y: -0.00000020861626, z: 0.00000025331974}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000011, y: 1.000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_108
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 6.185315, y: -1.5105817, z: -4.167131}
+      rotation: {x: -0.03087631, y: 0.09424475, z: -0.13089181, w: 0.98642385}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_140
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_108
+      position: {x: 2.8663383, y: -0.17589176, z: -0.8027872}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_109
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 6.17613, y: -3.493065, z: -3.9719827}
+      rotation: {x: 0.020064998, y: 0.15499194, z: -0.1051047, w: 0.9821038}
+      scale: {x: 1.0000012, y: 1.0000007, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_141
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_109
+      position: {x: 3.12795, y: -0.589375, z: -0.27197477}
+      rotation: {x: -4.2351642e-22, y: -0, z: -1.2449779e-22, w: 1}
+      scale: {x: 1.0000005, y: 1.0000011, z: 1.0000013}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_110
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_43
+      position: {x: 6.033928, y: -3.0283573, z: -0.7457434}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_241
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000047089998, y: 0.00000029802322, z: 0.0000013262033}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_243
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000047089998, y: 0.00000029802322, z: 0.0000013262033}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_251
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_243
+      position: {x: 0.00000092957634, y: -0.00000011920929, z: -0.000002488494}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_245
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000047089998, y: 0.00000029802322, z: 0.0000013262033}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_249
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000047089998, y: 0.00000029802322, z: 0.0000013262033}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_44
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      position: {x: 6.0530066, y: -2.457766, z: -4.413928}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999994, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_45
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      position: {x: 12.105812, y: -4.915529, z: -8.827706}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999996, y: 0.99999964, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_234
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_36
+      position: {x: 0.000015437603, y: -0.00002002716, z: -0.000016383827}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_229
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_30
+      position: {x: -2.2257566, y: 1.1245239, z: 0.896307}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9300001, y: 0.9300008, z: 0.9299999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_25
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_21
+      position: {x: -7.9640803, y: -1.2425466, z: 2.6322346}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_31
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_25
+      position: {x: -0.75665975, y: 0.49611425, z: 8.125179}
+      rotation: {x: 0.06854129, y: -0.43257603, z: -0.000000052154064, w: 0.8989884}
+      scale: {x: 1.0000005, y: 1.0000001, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_37
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_31
+      position: {x: 13.032916, y: 2.0650547, z: 9.50384}
+      rotation: {x: -0.11446774, y: -0.016554711, z: 0.1477524, w: 0.9822384}
+      scale: {x: 1.0000005, y: 0.99999964, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_46
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_37
+      position: {x: 6.0530457, y: -2.4577713, z: 4.4138784}
+      rotation: {x: 4.2973072e-23, y: -0.000000024191689, z: -7.209685e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_47
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_37
+      position: {x: 12.106098, y: -4.9155393, z: 8.827772}
+      rotation: {x: -7.1054265e-15, y: -0.000000048383345, z: -1.441936e-15, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_48
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_37
+      position: {x: 12.106276, y: -4.915826, z: 8.828264}
+      rotation: {x: 3.5017166e-23, y: -0.000000019712912, z: -5.8749056e-16, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999964}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_111
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 6.1852803, y: -1.5105815, z: 4.1670847}
+      rotation: {x: 0.030882524, y: -0.094226174, z: -0.13088626, w: 0.9864261}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999964}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_142
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_111
+      position: {x: 2.866252, y: -0.17588615, z: 0.80291}
+      rotation: {x: -5.32907e-15, y: -0.00000005996882, z: -1.7872103e-15, w: 1}
+      scale: {x: 1, y: 1.0000004, z: 1.0000008}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_112
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 6.1761136, y: -3.4930658, z: 3.9719467}
+      rotation: {x: -0.020059392, y: -0.15497687, z: -0.10510095, w: 0.9821067}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_143
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_112
+      position: {x: 3.127914, y: -0.58937454, z: 0.27207506}
+      rotation: {x: 5.800114e-23, y: -0.000000032651737, z: -9.730976e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000007}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_113
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 5.9793134, y: -5.355649, z: 3.2881908}
+      rotation: {x: -0.02366913, y: -0.13365811, z: -0.080739535, w: 0.98744947}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_144
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_113
+      position: {x: 2.955554, y: -0.7401047, z: 0.35875225}
+      rotation: {x: -5.26437e-15, y: -0.000000029143104, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999994, y: 0.9999997, z: 1.0000005}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_114
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 6.0338597, y: -3.0283597, z: 0.7457552}
+      rotation: {x: -0, y: -0, z: 6.902903e-31, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_244
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_114
+      position: {x: 0.000006198883, y: -0.0000023841858, z: -0.0000038146973}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_248
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_114
+      position: {x: 0.000006198883, y: -0.0000023841858, z: -0.0000038146973}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_115
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 6.2090907, y: -2.4637706, z: 0.83274174}
+      rotation: {x: -0, y: -0, z: 6.902903e-31, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_242
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_115
+      position: {x: 0.0000064373016, y: -0.0000054836273, z: 0.00000035762787}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_246
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_115
+      position: {x: 0.0000064373016, y: -0.0000054836273, z: 0.00000035762787}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_116
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 2.3605561, y: -3.2570815, z: -0.15625477}
+      rotation: {x: -0.06728079, y: -0.097805426, z: -0.366315, w: 0.92288715}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_145
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_116
+      position: {x: 3.8305492, y: -1.658141, z: -0.26084185}
+      rotation: {x: 2.5316765e-23, y: -0.0000000142520715, z: -4.2474483e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_117
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 6.5145864, y: 0.7060318, z: 3.9526386}
+      rotation: {x: 0.025421964, y: -0.061755624, z: -0.09383967, w: 0.99334496}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_146
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_117
+      position: {x: 2.256668, y: -0.30058527, z: 0.8091692}
+      rotation: {x: 6.573288e-23, y: -0.000000037004323, z: -1.1028148e-15, w: 1}
+      scale: {x: 0.99999994, y: 1.0000008, z: 1.000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_238
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 37.485622, y: -15.397253, z: 20.686676}
+      rotation: {x: -7.0034326e-23, y: 0.00000003942582, z: 1.174981e-15, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_240
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_48
+      position: {x: 0.000002861023, y: -0.000002861023, z: -0.0000047683716}
+      rotation: {x: -5.2939553e-23, y: 0.000000029802319, z: 8.881783e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000008, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_233
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_37
+      position: {x: -0.00000333786, y: -0.00000047683716, z: -0.0000005811453}
+      rotation: {x: 2.6469776e-23, y: -0.000000014901159, z: -4.4408916e-16, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_38
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_31
+      position: {x: 13.032916, y: 2.0650547, z: 9.50384}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_39
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_31
+      position: {x: 6.516453, y: 1.0325294, z: 4.751923}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_230
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_31
+      position: {x: -2.2257118, y: 1.1247895, z: -0.8963053}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.93000025, y: 0.9300002, z: 0.9300013}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_26
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_21
+      position: {x: -2.5325599, y: 7.9545097, z: -0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_32
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_26
+      position: {x: 11.390233, y: -0.00000923872, z: 0.0000004172325}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999995, y: 0.99999934, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_40
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_32
+      position: {x: 12.715031, y: 0.0000043809414, z: 0.0000008046627}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_49
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_40
+      position: {x: 12.438852, y: -0.00001180172, z: 0.00000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_118
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_49
+      position: {x: 12.142678, y: -0.000002592802, z: 0.0000006183982}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_27
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_21
+      position: {x: -12.285362, y: -0.32959303, z: -0.0000006556511}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_33
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_27
+      position: {x: -3.0068052, y: -0.6534027, z: 0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_41
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_33
+      position: {x: -1.8146656, y: -0.17733479, z: 0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_50
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.4448206, y: -6.679327, z: 0.00000025704503}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_51
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.6332916, y: -6.0670037, z: 0.824064}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_52
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.80255586, y: -4.073179, z: -2.626627}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_53
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.0356666, y: -4.5855985, z: -2.7813191}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000004, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_54
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.123269394, y: -5.703221, z: -1.4635031}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_55
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.6299678, y: 1.6660432, z: 2.8204484}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_119
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_55
+      position: {x: 4.781931, y: 4.3000503, z: 0.071917534}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_147
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_119
+      position: {x: 5.8976607, y: 2.5142245, z: -0.4351809}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_158
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_147
+      position: {x: 6.204769, y: 1.7513442, z: -0.39151615}
+      rotation: {x: 3.3063492e-24, y: -0.0000000018613091, z: -5.5471334e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_167
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_158
+      position: {x: 6.3620315, y: 0.4576962, z: -0.11691365}
+      rotation: {x: -3.3083623e-24, y: 0.0000000018624424, z: 5.550511e-17, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_56
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.195071, y: 2.9168258, z: -1.7636383}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_120
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_56
+      position: {x: 5.617515, y: 1.9270945, z: 0.49489006}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_148
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_120
+      position: {x: 8.106608, y: -0.23651895, z: -3.0499675}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_159
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_148
+      position: {x: 5.1180882, y: 2.001077, z: -0.063010335}
+      rotation: {x: 3.308722e-24, y: -0.0000000018626449, z: -5.5511145e-17, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_168
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_159
+      position: {x: 5.620157, y: 1.9135771, z: 0.6778574}
+      rotation: {x: -0, y: -0, z: 6.1629744e-33, w: 1}
+      scale: {x: 1.0000005, y: 1, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_176
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_168
+      position: {x: 8.140739, y: 0.000007867813, z: -0.00000023841858}
+      rotation: {x: -3.308722e-24, y: 0.0000000018626449, z: 5.5511145e-17, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_57
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.6391683, y: -4.135203, z: -1.5972217}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_58
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.8806224, y: -2.2838805, z: -3.6857905}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_121
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_58
+      position: {x: 6.937494, y: 1.6593306, z: 1.2623858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_149
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_121
+      position: {x: 6.668432, y: 0.9204345, z: 0.3586278}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_160
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_149
+      position: {x: 6.6897693, y: -0.2759583, z: 0.62570024}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_169
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_160
+      position: {x: 7.515518, y: -0.002101183, z: 0.0000021457672}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_59
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -5.1694355, y: -5.6233897, z: -2.1050415}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_60
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.5143461, y: -5.97146, z: -2.0133371}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_61
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.0498652, y: -6.4701552, z: -0.83142376}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_62
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.003758, y: -5.323161, z: -1.784422}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_63
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.486244, y: -5.3785825, z: -1.7955644}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_64
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 2.6852121, y: -5.84053, z: 0.000000033527613}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_65
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -6.0300713, y: 3.7016807, z: 0.000000115484}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_122
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_65
+      position: {x: -0.47623426, y: 6.7225356, z: -0.0000003874302}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_150
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_122
+      position: {x: -0.21978666, y: 12.174614, z: 0.00000032782555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000011, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_161
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_150
+      position: {x: 0.21978633, y: 12.383658, z: 0.0000019073486}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_170
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_161
+      position: {x: 0.54950035, y: 14.757799, z: 0.0000014305115}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_66
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.95069075, y: -5.49172, z: 1.2987858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_67
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.9690151, y: -5.8281345, z: 0.9143919}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_68
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.81190646, y: -6.1470027, z: 0.38176295}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_69
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.2761352, y: -6.3916492, z: 0.92683345}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_70
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.8536377, y: 0.37632978, z: 4.3105903}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_123
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_70
+      position: {x: -5.739456, y: 2.2705526, z: 1.8861811}
+      rotation: {x: 3.5527133e-15, y: 0.000000010944405, z: 3.2616864e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_151
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_123
+      position: {x: -4.41513, y: 2.883765, z: 1.3604698}
+      rotation: {x: -3.5527133e-15, y: -0.000000010944405, z: -3.2616864e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_71
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.123286195, y: -5.7032175, z: 1.4635034}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_72
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.7695584, y: -4.516235, z: 0.00000021979213}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_73
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.0356634, y: -4.585599, z: 2.7813194}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_74
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.5695941, y: -7.0684967, z: 0.00000009685755}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_75
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.774363, y: 0.6918481, z: -4.1729345}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_124
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_75
+      position: {x: -5.739475, y: 2.2705693, z: -1.8861912}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000011, y: 1.000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_152
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_124
+      position: {x: -4.4151187, y: 2.8837457, z: -1.3604589}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_76
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.80254257, y: -4.073177, z: 2.6266267}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000011, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_77
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.48625, y: -5.378578, z: 1.7955648}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_78
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.0037582, y: -5.323159, z: 1.7844224}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_79
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.6700749, y: -6.410559, z: 0.3144715}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_80
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.8832705, y: -2.2840552, z: 3.6850984}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_125
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_80
+      position: {x: 6.114778, y: 0.80061865, z: 0.28976876}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999946, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_153
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_125
+      position: {x: 6.97504, y: 0.4680456, z: -0.07300687}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_162
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_153
+      position: {x: 6.73098, y: 0.070951134, z: 0.07472122}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_171
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_162
+      position: {x: 7.515419, y: -0.004993409, z: -0.0000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_81
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -5.169427, y: -5.6233907, z: 2.1050417}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_82
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.0498595, y: -6.470159, z: 0.83142376}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_83
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.514334, y: -5.9714646, z: 2.0133371}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_84
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.4315617, y: -4.8763905, z: 3.0725129}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_85
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.6703053, y: -6.4106283, z: -0.3142162}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_86
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.8122732, y: -6.146974, z: -0.38175613}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000007, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_87
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.95043516, y: -5.491741, z: -1.298805}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_88
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 0.9693017, y: -5.8282194, z: -0.91423494}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_89
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.6332974, y: -6.067003, z: -0.824064}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_90
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.289515, y: 4.1660094, z: 0.0033951327}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_126
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_90
+      position: {x: 5.572133, y: 3.0486786, z: -0.3128345}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999964, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_154
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_126
+      position: {x: 5.990412, y: 2.193271, z: -0.3505119}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_163
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_154
+      position: {x: 6.1903825, y: 1.4858422, z: -0.31774262}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999995, y: 0.99999964, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_172
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_163
+      position: {x: 6.346121, y: 0.42413646, z: -0.12504822}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_177
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_172
+      position: {x: 6.359247, y: 0.42925912, z: 0.044817746}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_91
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.431548, y: -4.876389, z: -3.0725133}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_92
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.2765737, y: 0.5566113, z: 0.00000018626451}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_127
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.3119366, y: -6.1000667, z: 1.2282401}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 0.99999976, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_128
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.8366957, y: -5.0728474, z: -0.00000011175871}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_129
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5779543, y: -6.669968, z: 0.34154037}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_130
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.548767, y: -6.3683214, z: 0.86844516}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 0.9999998, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_131
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5487533, y: -6.3683186, z: -0.8684461}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999946, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_132
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.311928, y: -6.1000667, z: -1.2282417}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 0.9999998, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_133
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.578096, y: -6.6699557, z: -0.34153742}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_93
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.6391633, y: -4.1352034, z: 1.5972222}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_94
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -9.145507, y: 3.2495859, z: 0.000000040978193}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_134
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_94
+      position: {x: -4.1493764, y: 2.5202484, z: 0.014112651}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 0.99999976, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_155
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_134
+      position: {x: -4.379785, y: 2.5596519, z: -0.025338292}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_164
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_155
+      position: {x: -7.094205, y: 4.3950953, z: 0.011224888}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999991, y: 0.9999992, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_173
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_164
+      position: {x: -12.916995, y: 8.927248, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_95
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -3.2761338, y: -6.3916516, z: -0.9268332}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_96
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.6456254, y: 1.4513599, z: 4.508033}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000008, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_135
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_96
+      position: {x: 6.9548416, y: 0.49096048, z: 1.4541044}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000002, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_156
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_135
+      position: {x: 7.8048716, y: -2.7107515, z: 2.595954}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_165
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_156
+      position: {x: 6.795532, y: 2.5977898, z: -0.80052423}
+      rotation: {x: 3.308722e-24, y: -0.0000000018626449, z: -5.5511145e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_174
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_165
+      position: {x: 4.992833, y: 2.2447147, z: 2.357627}
+      rotation: {x: -6.6174315e-24, y: 0.0000000037252827, z: 1.1102208e-16, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_178
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_174
+      position: {x: 8.140829, y: 0.0000019073486, z: -0.0000009536743}
+      rotation: {x: 6.6174315e-24, y: -0.0000000037252827, z: -1.1102208e-16, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_97
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -1.7786478, y: 2.4280622, z: -3.025708}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.99999994, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_136
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_97
+      position: {x: 4.6105027, y: 4.387874, z: -0.19434857}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999998, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_157
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_136
+      position: {x: 5.806205, y: 2.7329142, z: -0.15672493}
+      rotation: {x: -3.333448e-24, y: 0.0000000018765645, z: 5.592598e-17, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_166
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_157
+      position: {x: 6.3689, y: 0.9722273, z: -0.16850245}
+      rotation: {x: 6.645073e-24, y: -0.0000000037408436, z: -1.1148583e-16, w: 1}
+      scale: {x: 0.9999999, y: 1.0000002, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_175
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_166
+      position: {x: 6.3468747, y: 0.6306961, z: -0.05467522}
+      rotation: {x: -6.617457e-24, y: 0.000000003725297, z: 1.110225e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_98
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -7.942727, y: -3.2592266, z: -5.757803}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_99
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -4.782915, y: -5.1107635, z: -3.3562384}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_100
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -8.220728, y: -3.281314, z: 5.360095}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_101
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -4.782895, y: -5.1107655, z: 3.356236}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_102
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.660457, y: -5.6227465, z: -1.7550806}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_103
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -2.660455, y: -5.622746, z: 1.7550809}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_231
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.0000016652048, y: 0.0000011390657, z: 0.00000011175871}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_232
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -8.39922, y: -1.7404987, z: 0.00000025704503}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_235
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: -0.0000016652048, y: 0.0000011390657, z: 0.00000011175871}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_236
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 1.6582643, y: -6.3932257, z: -0.000000014901161}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_237
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_41
+      position: {x: 1.4663361, y: 0.23188888, z: -7.0998945}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_207
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -23.767387, y: 11.534088, z: 11.711506}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6500015, y: 0.6499994, z: 0.6499998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_208
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 0.000018803868, y: -0.000014845282, z: 0.00000022351742}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_209
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 0.000015168451, y: -0.0000020638108, z: -0.00000027567148}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_211
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 19.869139, y: 9.07085, z: 2.354568}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_212
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -10.982234, y: 15.367546, z: -0.0000008419156}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_214
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -26.70861, y: 14.237522, z: -13.055556}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 0.9999994, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_215
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 19.869139, y: 9.07085, z: 2.354568}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_216
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -2.7605603, y: 0.85433674, z: 0.27002394}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_217
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -26.708593, y: 14.237518, z: 13.055555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 0.9999996, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_218
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -9.500145, y: -6.2084923, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_219
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -4.0596576, y: 15.423731, z: -0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000012, y: 0.9999996, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_220
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -2.6308403, y: 16.041676, z: 2.2171116}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 0.999999, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_221
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -6.1607013, y: 7.5815067, z: -0.00000071525574}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_222
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 0.000014913268, y: -0.0000030975789, z: -0.00000029802322}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_223
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: 19.869139, y: 9.07085, z: 2.354568}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_224
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_16
+      position: {x: -3.9982169, y: 12.218957, z: -0.0000007227063}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 0.99999946, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_200
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_3
+      position: {x: 0.2855989, y: -0.09957093, z: -9.919818}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000001, z: 0.99999934}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_203
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_3
+      position: {x: 0.28560102, y: -0.09956968, z: 9.919444}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000012, y: 1.0000001, z: 0.99999946}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_199
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_198
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_197
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_196
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_195
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_194
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 111.13627, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_193
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_192
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_191
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_190
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_189
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_188
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_187
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_186
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_185
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_184
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 112.78509, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.17647, y: 1.17647, z: 1.17647}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_183
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 3.6651916e-15, y: -0, z: -0, w: 1}
+      scale: {x: 0.96999985, y: 0.96999985, z: 0.96999985}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_182
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 67.468765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_181
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_180
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_179
+      parentName: character_bloodelf_male_bloodelfmale_hd
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

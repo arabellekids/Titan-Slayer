@@ -7,6 +7,7 @@ public class PlayerMovement : MonoBehaviour {
     public NavMeshAgent agent;
     public Camera cam;
     public Animator anim;
+    public GameObject focus;
 	// Use this for initialization
 	void Start () {
         agent = GetComponent<NavMeshAgent>();
@@ -20,6 +21,16 @@ public class PlayerMovement : MonoBehaviour {
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
             if (Physics.Raycast(ray, out hit))
+            {
+                agent.SetDestination(hit.point);
+            }
+        }
+        if (Input.GetMouseButton(1))
+        {
+            RaycastHit hit;
+            Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
+
+            if (Physics.Raycast(ray, out hit) && hit.collider.tag == "Interactable")
             {
                 agent.SetDestination(hit.point);
             }

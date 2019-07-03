@@ -1,0 +1,2332 @@
+fileFormatVersion: 2
+guid: d0e92a8169acfe9408de999723c3c49a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: character_bloodelf_male_bloodelfmale_hd_bone_100
+    100002: character_bloodelf_male_bloodelfmale_hd_bone_101
+    100004: character_bloodelf_male_bloodelfmale_hd_bone_102
+    100006: character_bloodelf_male_bloodelfmale_hd_bone_103
+    100008: character_bloodelf_male_bloodelfmale_hd_bone_107
+    100010: character_bloodelf_male_bloodelfmale_hd_bone_110
+    100012: character_bloodelf_male_bloodelfmale_hd_bone_114
+    100014: character_bloodelf_male_bloodelfmale_hd_bone_115
+    100016: character_bloodelf_male_bloodelfmale_hd_bone_119
+    100018: character_bloodelf_male_bloodelfmale_hd_bone_120
+    100020: character_bloodelf_male_bloodelfmale_hd_bone_121
+    100022: character_bloodelf_male_bloodelfmale_hd_bone_122
+    100024: character_bloodelf_male_bloodelfmale_hd_bone_123
+    100026: character_bloodelf_male_bloodelfmale_hd_bone_124
+    100028: character_bloodelf_male_bloodelfmale_hd_bone_126
+    100030: character_bloodelf_male_bloodelfmale_hd_bone_127
+    100032: character_bloodelf_male_bloodelfmale_hd_bone_128
+    100034: character_bloodelf_male_bloodelfmale_hd_bone_129
+    100036: character_bloodelf_male_bloodelfmale_hd_bone_130
+    100038: character_bloodelf_male_bloodelfmale_hd_bone_131
+    100040: character_bloodelf_male_bloodelfmale_hd_bone_132
+    100042: character_bloodelf_male_bloodelfmale_hd_bone_133
+    100044: character_bloodelf_male_bloodelfmale_hd_bone_134
+    100046: character_bloodelf_male_bloodelfmale_hd_bone_136
+    100048: character_bloodelf_male_bloodelfmale_hd_bone_150
+    100050: character_bloodelf_male_bloodelfmale_hd_bone_151
+    100052: character_bloodelf_male_bloodelfmale_hd_bone_152
+    100054: character_bloodelf_male_bloodelfmale_hd_bone_155
+    100056: character_bloodelf_male_bloodelfmale_hd_bone_161
+    100058: character_bloodelf_male_bloodelfmale_hd_bone_164
+    100060: character_bloodelf_male_bloodelfmale_hd_bone_170
+    100062: character_bloodelf_male_bloodelfmale_hd_bone_173
+    100064: character_bloodelf_male_bloodelfmale_hd_bone_179
+    100066: character_bloodelf_male_bloodelfmale_hd_bone_180
+    100068: character_bloodelf_male_bloodelfmale_hd_bone_181
+    100070: character_bloodelf_male_bloodelfmale_hd_bone_182
+    100072: character_bloodelf_male_bloodelfmale_hd_bone_183
+    100074: character_bloodelf_male_bloodelfmale_hd_bone_184
+    100076: character_bloodelf_male_bloodelfmale_hd_bone_185
+    100078: character_bloodelf_male_bloodelfmale_hd_bone_186
+    100080: character_bloodelf_male_bloodelfmale_hd_bone_187
+    100082: character_bloodelf_male_bloodelfmale_hd_bone_188
+    100084: character_bloodelf_male_bloodelfmale_hd_bone_189
+    100086: character_bloodelf_male_bloodelfmale_hd_bone_190
+    100088: character_bloodelf_male_bloodelfmale_hd_bone_191
+    100090: character_bloodelf_male_bloodelfmale_hd_bone_192
+    100092: character_bloodelf_male_bloodelfmale_hd_bone_193
+    100094: character_bloodelf_male_bloodelfmale_hd_bone_194
+    100096: character_bloodelf_male_bloodelfmale_hd_bone_195
+    100098: character_bloodelf_male_bloodelfmale_hd_bone_196
+    100100: character_bloodelf_male_bloodelfmale_hd_bone_197
+    100102: character_bloodelf_male_bloodelfmale_hd_bone_198
+    100104: character_bloodelf_male_bloodelfmale_hd_bone_199
+    100106: character_bloodelf_male_bloodelfmale_hd_bone_207
+    100108: character_bloodelf_male_bloodelfmale_hd_bone_216
+    100110: character_bloodelf_male_bloodelfmale_hd_bone_217
+    100112: character_bloodelf_male_bloodelfmale_hd_bone_222
+    100114: character_bloodelf_male_bloodelfmale_hd_bone_231
+    100116: character_bloodelf_male_bloodelfmale_hd_bone_232
+    100118: character_bloodelf_male_bloodelfmale_hd_bone_234
+    100120: character_bloodelf_male_bloodelfmale_hd_bone_235
+    100122: character_bloodelf_male_bloodelfmale_hd_bone_236
+    100124: character_bloodelf_male_bloodelfmale_hd_bone_237
+    100126: character_bloodelf_male_bloodelfmale_hd_bone_238
+    100128: character_bloodelf_male_bloodelfmale_hd_bone_239
+    100130: character_bloodelf_male_bloodelfmale_hd_bone_241
+    100132: character_bloodelf_male_bloodelfmale_hd_bone_242
+    100134: character_bloodelf_male_bloodelfmale_hd_bone_243
+    100136: character_bloodelf_male_bloodelfmale_hd_bone_244
+    100138: character_bloodelf_male_bloodelfmale_hd_bone_245
+    100140: character_bloodelf_male_bloodelfmale_hd_bone_246
+    100142: character_bloodelf_male_bloodelfmale_hd_bone_247
+    100144: character_bloodelf_male_bloodelfmale_hd_bone_248
+    100146: character_bloodelf_male_bloodelfmale_hd_bone_249
+    100148: character_bloodelf_male_bloodelfmale_hd_bone_250
+    100150: character_bloodelf_male_bloodelfmale_hd_bone_251
+    100152: character_bloodelf_male_bloodelfmale_hd_bone_35
+    100154: character_bloodelf_male_bloodelfmale_hd_bone_42
+    100156: character_bloodelf_male_bloodelfmale_hd_bone_52
+    100158: character_bloodelf_male_bloodelfmale_hd_bone_53
+    100160: character_bloodelf_male_bloodelfmale_hd_bone_54
+    100162: character_bloodelf_male_bloodelfmale_hd_bone_55
+    100164: character_bloodelf_male_bloodelfmale_hd_bone_56
+    100166: character_bloodelf_male_bloodelfmale_hd_bone_57
+    100168: character_bloodelf_male_bloodelfmale_hd_bone_58
+    100170: character_bloodelf_male_bloodelfmale_hd_bone_59
+    100172: character_bloodelf_male_bloodelfmale_hd_bone_60
+    100174: character_bloodelf_male_bloodelfmale_hd_bone_61
+    100176: character_bloodelf_male_bloodelfmale_hd_bone_62
+    100178: character_bloodelf_male_bloodelfmale_hd_bone_63
+    100180: character_bloodelf_male_bloodelfmale_hd_bone_65
+    100182: character_bloodelf_male_bloodelfmale_hd_bone_66
+    100184: character_bloodelf_male_bloodelfmale_hd_bone_69
+    100186: character_bloodelf_male_bloodelfmale_hd_bone_70
+    100188: character_bloodelf_male_bloodelfmale_hd_bone_71
+    100190: character_bloodelf_male_bloodelfmale_hd_bone_73
+    100192: character_bloodelf_male_bloodelfmale_hd_bone_75
+    100194: character_bloodelf_male_bloodelfmale_hd_bone_76
+    100196: character_bloodelf_male_bloodelfmale_hd_bone_77
+    100198: character_bloodelf_male_bloodelfmale_hd_bone_78
+    100200: character_bloodelf_male_bloodelfmale_hd_bone_79
+    100202: character_bloodelf_male_bloodelfmale_hd_bone_80
+    100204: character_bloodelf_male_bloodelfmale_hd_bone_81
+    100206: character_bloodelf_male_bloodelfmale_hd_bone_82
+    100208: character_bloodelf_male_bloodelfmale_hd_bone_83
+    100210: character_bloodelf_male_bloodelfmale_hd_bone_84
+    100212: character_bloodelf_male_bloodelfmale_hd_bone_85
+    100214: character_bloodelf_male_bloodelfmale_hd_bone_87
+    100216: character_bloodelf_male_bloodelfmale_hd_bone_88
+    100218: character_bloodelf_male_bloodelfmale_hd_bone_89
+    100220: character_bloodelf_male_bloodelfmale_hd_bone_90
+    100222: character_bloodelf_male_bloodelfmale_hd_bone_91
+    100224: character_bloodelf_male_bloodelfmale_hd_bone_92
+    100226: character_bloodelf_male_bloodelfmale_hd_bone_93
+    100228: character_bloodelf_male_bloodelfmale_hd_bone_94
+    100230: character_bloodelf_male_bloodelfmale_hd_bone_95
+    100232: character_bloodelf_male_bloodelfmale_hd_bone_96
+    100234: character_bloodelf_male_bloodelfmale_hd_bone_97
+    100236: character_bloodelf_male_bloodelfmale_hd_bone_98
+    100238: character_bloodelf_male_bloodelfmale_hd_bone_99
+    100240: IgnorePoint
+    100242: IgnorePoint_001
+    100244: IgnorePoint_002
+    100246: IgnorePoint_003
+    100248: IgnorePoint_004
+    100250: IgnorePoint_005
+    100252: IgnorePoint_006
+    100254: IgnorePoint_007
+    100256: IgnorePoint_008
+    100258: IgnorePoint_009
+    100260: IgnorePoint_010
+    100262: IgnorePoint_011
+    100264: IgnorePoint_012
+    100266: IgnorePoint_013
+    100268: IgnorePoint_014
+    100270: IgnorePoint_015
+    100272: LowerLeg_r
+    100274: SephArmPoint_r
+    100276: SephBackPoint
+    100278: SephBeltClothBottom
+    100280: SephBeltClothMiddle
+    100282: SephBeltClothTop
+    100284: SephBeltPoint_l
+    100286: SephBeltPoint_r
+    100288: SephBiceps_l
+    100290: SephBiceps_r
+    100292: SephBicepsUpper_r
+    100294: SephButtClothBottom
+    100296: SephButtClothMiddle
+    100298: SephButtClothTop
+    100300: SephButtPoint
+    100302: SephButtPoint2
+    100304: SephCapeBottom
+    100306: SephCapeMiddle
+    100308: SephCapePoint
+    100310: SephCapeSecondBottom
+    100312: SephCapeTop
+    100314: SephCapeVeryTop
+    100316: SephChest
+    100318: SephChestPoint1
+    100320: SephChestPoint2
+    100322: SephChin
+    100324: SephElbow_l
+    100326: SephElbow_r
+    100328: SephElbowPoint_r
+    100330: Sepheroth_001
+    100332: SepherothModel
+    100334: SepherothRig
+    100336: SephFoot_l
+    100338: SephFoot_r
+    100340: SephForehead
+    100342: SephHair11
+    100344: SephHair12
+    100346: SephHair13
+    100348: SephHair21
+    100350: SephHair22
+    100352: SephHair23
+    100354: SephHair31
+    100356: SephHair32
+    100358: SephHair33
+    100360: SephHairBottom
+    100362: SephHeelMuscle_l
+    100364: SephHeelPoint_l
+    100366: SephHeelPoint_r
+    100368: SephHighShoulderPoint_l
+    100370: SephHipPoint
+    100372: SephHipPoint2_r
+    100374: SephHipPoint_l
+    100376: SephHipPoint_r
+    100378: SephIndexFinger_l
+    100380: SephIndexFinger_r
+    100382: SephIndexFinger_r_001
+    100384: SephIndexFingerUpper_r
+    100386: SepHipPoint_l
+    100388: SephKneePoint_l
+    100390: SephKneePoint_r
+    100392: SephLeg_l
+    100394: SephLeg_r
+    100396: SephLowerArmMuscle
+    100398: SephLowerArmMuscle_l
+    100400: SephLowerLegMuscle_r
+    100402: SephMiddleFinger_l
+    100404: SephNeck1
+    100406: SephNeck2
+    100408: SephNeck3
+    100410: SephNose
+    100412: SephNoseWrinkle_r
+    100414: SephPinkie_l
+    100416: SephPinkie_r
+    100418: SephRingFinger_l
+    100420: SephRingFinger_r
+    100422: SephRingFingerUpper
+    100424: SephShoulder_l
+    100426: SephShoulder_r
+    100428: SephShoulderBlade_l
+    100430: SephShoulderBlade_r
+    100432: SephShoulderPoint_l
+    100434: SephShoulderPoint_r
+    100436: SephShoulderTassel2_r
+    100438: SephShoulderTassel3_r
+    100440: SephShoulderTasselBottom_r
+    100442: SephShoulderTasselTop_r
+    100444: SephShoulderTasselVeryTop_r
+    100446: SephSpine3
+    100448: SephSpineMiddle
+    100450: SephSpinePoint1
+    100452: SephSpinePoint2
+    100454: SephThigh_l
+    100456: SephThighPoint_l
+    100458: SephThumb_l
+    100460: SephThumb_r
+    100462: SephTinyHipPoint
+    100464: SephTinyHipPoint2
+    100466: SephToePoint_l
+    100468: SephToePoint_r
+    100470: SephToes_l
+    100472: SephToes_r
+    100474: SephTongue
+    100476: SephUpperIndexFinger_l
+    100478: SephUpperIndexFinger_r
+    100480: SephUpperLip
+    100482: SephUpperLip2
+    100484: SephUpperLip3
+    100486: SephUpperMiddleFinger_l
+    100488: SephUpperPinkie_l
+    100490: SephUpperPinkie_r
+    100492: SephUpperRingFinger_l
+    100494: SephUpperThumb_l
+    100496: SephUpperThumb_r
+    100498: SephWrist_l
+    100500: SephWristMuscle2_r
+    100502: SephWristMuscle_l
+    100504: ThighMuscle_r
+    100506: //RootNode
+    100508: Wrist_r
+    400000: character_bloodelf_male_bloodelfmale_hd_bone_100
+    400002: character_bloodelf_male_bloodelfmale_hd_bone_101
+    400004: character_bloodelf_male_bloodelfmale_hd_bone_102
+    400006: character_bloodelf_male_bloodelfmale_hd_bone_103
+    400008: character_bloodelf_male_bloodelfmale_hd_bone_107
+    400010: character_bloodelf_male_bloodelfmale_hd_bone_110
+    400012: character_bloodelf_male_bloodelfmale_hd_bone_114
+    400014: character_bloodelf_male_bloodelfmale_hd_bone_115
+    400016: character_bloodelf_male_bloodelfmale_hd_bone_119
+    400018: character_bloodelf_male_bloodelfmale_hd_bone_120
+    400020: character_bloodelf_male_bloodelfmale_hd_bone_121
+    400022: character_bloodelf_male_bloodelfmale_hd_bone_122
+    400024: character_bloodelf_male_bloodelfmale_hd_bone_123
+    400026: character_bloodelf_male_bloodelfmale_hd_bone_124
+    400028: character_bloodelf_male_bloodelfmale_hd_bone_126
+    400030: character_bloodelf_male_bloodelfmale_hd_bone_127
+    400032: character_bloodelf_male_bloodelfmale_hd_bone_128
+    400034: character_bloodelf_male_bloodelfmale_hd_bone_129
+    400036: character_bloodelf_male_bloodelfmale_hd_bone_130
+    400038: character_bloodelf_male_bloodelfmale_hd_bone_131
+    400040: character_bloodelf_male_bloodelfmale_hd_bone_132
+    400042: character_bloodelf_male_bloodelfmale_hd_bone_133
+    400044: character_bloodelf_male_bloodelfmale_hd_bone_134
+    400046: character_bloodelf_male_bloodelfmale_hd_bone_136
+    400048: character_bloodelf_male_bloodelfmale_hd_bone_150
+    400050: character_bloodelf_male_bloodelfmale_hd_bone_151
+    400052: character_bloodelf_male_bloodelfmale_hd_bone_152
+    400054: character_bloodelf_male_bloodelfmale_hd_bone_155
+    400056: character_bloodelf_male_bloodelfmale_hd_bone_161
+    400058: character_bloodelf_male_bloodelfmale_hd_bone_164
+    400060: character_bloodelf_male_bloodelfmale_hd_bone_170
+    400062: character_bloodelf_male_bloodelfmale_hd_bone_173
+    400064: character_bloodelf_male_bloodelfmale_hd_bone_179
+    400066: character_bloodelf_male_bloodelfmale_hd_bone_180
+    400068: character_bloodelf_male_bloodelfmale_hd_bone_181
+    400070: character_bloodelf_male_bloodelfmale_hd_bone_182
+    400072: character_bloodelf_male_bloodelfmale_hd_bone_183
+    400074: character_bloodelf_male_bloodelfmale_hd_bone_184
+    400076: character_bloodelf_male_bloodelfmale_hd_bone_185
+    400078: character_bloodelf_male_bloodelfmale_hd_bone_186
+    400080: character_bloodelf_male_bloodelfmale_hd_bone_187
+    400082: character_bloodelf_male_bloodelfmale_hd_bone_188
+    400084: character_bloodelf_male_bloodelfmale_hd_bone_189
+    400086: character_bloodelf_male_bloodelfmale_hd_bone_190
+    400088: character_bloodelf_male_bloodelfmale_hd_bone_191
+    400090: character_bloodelf_male_bloodelfmale_hd_bone_192
+    400092: character_bloodelf_male_bloodelfmale_hd_bone_193
+    400094: character_bloodelf_male_bloodelfmale_hd_bone_194
+    400096: character_bloodelf_male_bloodelfmale_hd_bone_195
+    400098: character_bloodelf_male_bloodelfmale_hd_bone_196
+    400100: character_bloodelf_male_bloodelfmale_hd_bone_197
+    400102: character_bloodelf_male_bloodelfmale_hd_bone_198
+    400104: character_bloodelf_male_bloodelfmale_hd_bone_199
+    400106: character_bloodelf_male_bloodelfmale_hd_bone_207
+    400108: character_bloodelf_male_bloodelfmale_hd_bone_216
+    400110: character_bloodelf_male_bloodelfmale_hd_bone_217
+    400112: character_bloodelf_male_bloodelfmale_hd_bone_222
+    400114: character_bloodelf_male_bloodelfmale_hd_bone_231
+    400116: character_bloodelf_male_bloodelfmale_hd_bone_232
+    400118: character_bloodelf_male_bloodelfmale_hd_bone_234
+    400120: character_bloodelf_male_bloodelfmale_hd_bone_235
+    400122: character_bloodelf_male_bloodelfmale_hd_bone_236
+    400124: character_bloodelf_male_bloodelfmale_hd_bone_237
+    400126: character_bloodelf_male_bloodelfmale_hd_bone_238
+    400128: character_bloodelf_male_bloodelfmale_hd_bone_239
+    400130: character_bloodelf_male_bloodelfmale_hd_bone_241
+    400132: character_bloodelf_male_bloodelfmale_hd_bone_242
+    400134: character_bloodelf_male_bloodelfmale_hd_bone_243
+    400136: character_bloodelf_male_bloodelfmale_hd_bone_244
+    400138: character_bloodelf_male_bloodelfmale_hd_bone_245
+    400140: character_bloodelf_male_bloodelfmale_hd_bone_246
+    400142: character_bloodelf_male_bloodelfmale_hd_bone_247
+    400144: character_bloodelf_male_bloodelfmale_hd_bone_248
+    400146: character_bloodelf_male_bloodelfmale_hd_bone_249
+    400148: character_bloodelf_male_bloodelfmale_hd_bone_250
+    400150: character_bloodelf_male_bloodelfmale_hd_bone_251
+    400152: character_bloodelf_male_bloodelfmale_hd_bone_35
+    400154: character_bloodelf_male_bloodelfmale_hd_bone_42
+    400156: character_bloodelf_male_bloodelfmale_hd_bone_52
+    400158: character_bloodelf_male_bloodelfmale_hd_bone_53
+    400160: character_bloodelf_male_bloodelfmale_hd_bone_54
+    400162: character_bloodelf_male_bloodelfmale_hd_bone_55
+    400164: character_bloodelf_male_bloodelfmale_hd_bone_56
+    400166: character_bloodelf_male_bloodelfmale_hd_bone_57
+    400168: character_bloodelf_male_bloodelfmale_hd_bone_58
+    400170: character_bloodelf_male_bloodelfmale_hd_bone_59
+    400172: character_bloodelf_male_bloodelfmale_hd_bone_60
+    400174: character_bloodelf_male_bloodelfmale_hd_bone_61
+    400176: character_bloodelf_male_bloodelfmale_hd_bone_62
+    400178: character_bloodelf_male_bloodelfmale_hd_bone_63
+    400180: character_bloodelf_male_bloodelfmale_hd_bone_65
+    400182: character_bloodelf_male_bloodelfmale_hd_bone_66
+    400184: character_bloodelf_male_bloodelfmale_hd_bone_69
+    400186: character_bloodelf_male_bloodelfmale_hd_bone_70
+    400188: character_bloodelf_male_bloodelfmale_hd_bone_71
+    400190: character_bloodelf_male_bloodelfmale_hd_bone_73
+    400192: character_bloodelf_male_bloodelfmale_hd_bone_75
+    400194: character_bloodelf_male_bloodelfmale_hd_bone_76
+    400196: character_bloodelf_male_bloodelfmale_hd_bone_77
+    400198: character_bloodelf_male_bloodelfmale_hd_bone_78
+    400200: character_bloodelf_male_bloodelfmale_hd_bone_79
+    400202: character_bloodelf_male_bloodelfmale_hd_bone_80
+    400204: character_bloodelf_male_bloodelfmale_hd_bone_81
+    400206: character_bloodelf_male_bloodelfmale_hd_bone_82
+    400208: character_bloodelf_male_bloodelfmale_hd_bone_83
+    400210: character_bloodelf_male_bloodelfmale_hd_bone_84
+    400212: character_bloodelf_male_bloodelfmale_hd_bone_85
+    400214: character_bloodelf_male_bloodelfmale_hd_bone_87
+    400216: character_bloodelf_male_bloodelfmale_hd_bone_88
+    400218: character_bloodelf_male_bloodelfmale_hd_bone_89
+    400220: character_bloodelf_male_bloodelfmale_hd_bone_90
+    400222: character_bloodelf_male_bloodelfmale_hd_bone_91
+    400224: character_bloodelf_male_bloodelfmale_hd_bone_92
+    400226: character_bloodelf_male_bloodelfmale_hd_bone_93
+    400228: character_bloodelf_male_bloodelfmale_hd_bone_94
+    400230: character_bloodelf_male_bloodelfmale_hd_bone_95
+    400232: character_bloodelf_male_bloodelfmale_hd_bone_96
+    400234: character_bloodelf_male_bloodelfmale_hd_bone_97
+    400236: character_bloodelf_male_bloodelfmale_hd_bone_98
+    400238: character_bloodelf_male_bloodelfmale_hd_bone_99
+    400240: IgnorePoint
+    400242: IgnorePoint_001
+    400244: IgnorePoint_002
+    400246: IgnorePoint_003
+    400248: IgnorePoint_004
+    400250: IgnorePoint_005
+    400252: IgnorePoint_006
+    400254: IgnorePoint_007
+    400256: IgnorePoint_008
+    400258: IgnorePoint_009
+    400260: IgnorePoint_010
+    400262: IgnorePoint_011
+    400264: IgnorePoint_012
+    400266: IgnorePoint_013
+    400268: IgnorePoint_014
+    400270: IgnorePoint_015
+    400272: LowerLeg_r
+    400274: SephArmPoint_r
+    400276: SephBackPoint
+    400278: SephBeltClothBottom
+    400280: SephBeltClothMiddle
+    400282: SephBeltClothTop
+    400284: SephBeltPoint_l
+    400286: SephBeltPoint_r
+    400288: SephBiceps_l
+    400290: SephBiceps_r
+    400292: SephBicepsUpper_r
+    400294: SephButtClothBottom
+    400296: SephButtClothMiddle
+    400298: SephButtClothTop
+    400300: SephButtPoint
+    400302: SephButtPoint2
+    400304: SephCapeBottom
+    400306: SephCapeMiddle
+    400308: SephCapePoint
+    400310: SephCapeSecondBottom
+    400312: SephCapeTop
+    400314: SephCapeVeryTop
+    400316: SephChest
+    400318: SephChestPoint1
+    400320: SephChestPoint2
+    400322: SephChin
+    400324: SephElbow_l
+    400326: SephElbow_r
+    400328: SephElbowPoint_r
+    400330: Sepheroth_001
+    400332: SepherothModel
+    400334: SepherothRig
+    400336: SephFoot_l
+    400338: SephFoot_r
+    400340: SephForehead
+    400342: SephHair11
+    400344: SephHair12
+    400346: SephHair13
+    400348: SephHair21
+    400350: SephHair22
+    400352: SephHair23
+    400354: SephHair31
+    400356: SephHair32
+    400358: SephHair33
+    400360: SephHairBottom
+    400362: SephHeelMuscle_l
+    400364: SephHeelPoint_l
+    400366: SephHeelPoint_r
+    400368: SephHighShoulderPoint_l
+    400370: SephHipPoint
+    400372: SephHipPoint2_r
+    400374: SephHipPoint_l
+    400376: SephHipPoint_r
+    400378: SephIndexFinger_l
+    400380: SephIndexFinger_r
+    400382: SephIndexFinger_r_001
+    400384: SephIndexFingerUpper_r
+    400386: SepHipPoint_l
+    400388: SephKneePoint_l
+    400390: SephKneePoint_r
+    400392: SephLeg_l
+    400394: SephLeg_r
+    400396: SephLowerArmMuscle
+    400398: SephLowerArmMuscle_l
+    400400: SephLowerLegMuscle_r
+    400402: SephMiddleFinger_l
+    400404: SephNeck1
+    400406: SephNeck2
+    400408: SephNeck3
+    400410: SephNose
+    400412: SephNoseWrinkle_r
+    400414: SephPinkie_l
+    400416: SephPinkie_r
+    400418: SephRingFinger_l
+    400420: SephRingFinger_r
+    400422: SephRingFingerUpper
+    400424: SephShoulder_l
+    400426: SephShoulder_r
+    400428: SephShoulderBlade_l
+    400430: SephShoulderBlade_r
+    400432: SephShoulderPoint_l
+    400434: SephShoulderPoint_r
+    400436: SephShoulderTassel2_r
+    400438: SephShoulderTassel3_r
+    400440: SephShoulderTasselBottom_r
+    400442: SephShoulderTasselTop_r
+    400444: SephShoulderTasselVeryTop_r
+    400446: SephSpine3
+    400448: SephSpineMiddle
+    400450: SephSpinePoint1
+    400452: SephSpinePoint2
+    400454: SephThigh_l
+    400456: SephThighPoint_l
+    400458: SephThumb_l
+    400460: SephThumb_r
+    400462: SephTinyHipPoint
+    400464: SephTinyHipPoint2
+    400466: SephToePoint_l
+    400468: SephToePoint_r
+    400470: SephToes_l
+    400472: SephToes_r
+    400474: SephTongue
+    400476: SephUpperIndexFinger_l
+    400478: SephUpperIndexFinger_r
+    400480: SephUpperLip
+    400482: SephUpperLip2
+    400484: SephUpperLip3
+    400486: SephUpperMiddleFinger_l
+    400488: SephUpperPinkie_l
+    400490: SephUpperPinkie_r
+    400492: SephUpperRingFinger_l
+    400494: SephUpperThumb_l
+    400496: SephUpperThumb_r
+    400498: SephWrist_l
+    400500: SephWristMuscle2_r
+    400502: SephWristMuscle_l
+    400504: ThighMuscle_r
+    400506: //RootNode
+    400508: Wrist_r
+    2100000: GlovesMaterial
+    2100002: FaceMaterial
+    2100004: BeltMaterial
+    2100006: ShouldersMaterial
+    2100008: EyesMaterial
+    2100010: EarsMaterial
+    2100012: PantsLowerMaterial
+    2100014: PantsUpperMaterial
+    2100016: HandsMaterial
+    2100018: TorsoMaterial
+    2100020: CapeMaterial
+    2100022: FeetMaterial
+    2100024: ChestMaterial
+    2100026: EyebrowsMaterial
+    2100028: HairMaterial
+    4300000: SepherothModel
+    7400000: Default Take
+    7400002: character_bloodelf_male_bloodelfmale_hd_bone_0_Stand__62__Stand
+    9500000: //RootNode
+    13700000: SepherothModel
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: "Avatar Rig Configuration mis-match. Inbetween bone rotation
+      in configuration does not match rotation in animation file:\n\t'SephSpinePoint2'
+      : rotation error = 19.454927 deg\n\t'SephNeck3' : rotation error = 26.091785
+      deg\n"
+    animationImportErrors: 
+    animationImportWarnings: "\nClip 'Default Take' has import animation warnings
+      that might lower retargeting quality:\nNote: Activate translation DOF on avatar
+      to improve retargeting quality.\n\t'SephLeg_r' has translation animation that
+      will be discarded.\n\t'SephLeg_l' has translation animation that will be discarded.\n\t'SephSpinePoint2'
+      is inbetween humanoid transforms and has rotation animation that will be discarded.\n\t'SephWrist_l'
+      has translation animation that will be discarded.\n\t'SephShoulder_r' has translation
+      animation that will be discarded.\n\t'Wrist_r' has translation animation that
+      will be discarded.\n\t'SephNeck3' is inbetween humanoid transforms and has rotation
+      animation that will be discarded.\n\t'SephNoseWrinkle_r' has translation animation
+      that will be discarded.\n\t'SephChin' has translation animation that will be
+      discarded.\n\nClip 'character_bloodelf_male_bloodelfmale_hd_bone_0_Stand__62__Stand'
+      has import animation warnings that might lower retargeting quality:\nNote: Activate
+      translation DOF on avatar to improve retargeting quality.\n\t'SephLeg_r' has
+      translation animation that will be discarded.\n\t'SephLeg_l' has translation
+      animation that will be discarded.\n\t'SephSpinePoint2' is inbetween humanoid
+      transforms and has rotation animation that will be discarded.\n\t'SephWrist_l'
+      has translation animation that will be discarded.\n\t'Wrist_r' has translation
+      animation that will be discarded.\n\t'SephNeck3' is inbetween humanoid transforms
+      and has rotation animation that will be discarded.\n\t'SephNoseWrinkle_r' has
+      translation animation that will be discarded.\n\t'SephChin' has translation
+      animation that will be discarded.\n"
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Default Take
+      takeName: Default Take
+      firstFrame: 0
+      lastFrame: 49
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: character_bloodelf_male_bloodelfmale_hd_bone_0_Stand__62__Stand
+      takeName: character_bloodelf_male_bloodelfmale_hd_bone_0_Stand__62__Stand
+      firstFrame: 0
+      lastFrame: 48
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human:
+    - boneName: SephHipPoint
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephLeg_l
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephLeg_r
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephThighPoint_l
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: LowerLeg_r
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephFoot_l
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephFoot_r
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephSpineMiddle
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephSpine3
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephNeck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephNeck2
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephShoulderBlade_l
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephShoulderBlade_r
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephShoulder_l
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephShoulder_r
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephElbow_l
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephElbow_r
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephWrist_l
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: Wrist_r
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephToes_l
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephToes_r
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: character_bloodelf_male_bloodelfmale_hd_bone_99
+      humanName: LeftEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephNoseWrinkle_r
+      humanName: RightEye
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephChin
+      humanName: Jaw
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephThumb_l
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperThumb_l
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephIndexFinger_l
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperIndexFinger_l
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephMiddleFinger_l
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperMiddleFinger_l
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephRingFinger_l
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperRingFinger_l
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephPinkie_l
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperPinkie_l
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephThumb_r
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperThumb_r
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephIndexFinger_r_001
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperIndexFinger_r
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephIndexFinger_r
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephIndexFingerUpper_r
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephRingFinger_r
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephRingFingerUpper
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephPinkie_r
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephUpperPinkie_r
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: SephChest
+      humanName: UpperChest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: W.O.W.Sepheroth_Player(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Sepheroth_001
+      parentName: W.O.W.Sepheroth_Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0.000000059604645, y: -0, z: -0, w: 1}
+      scale: {x: 0.01, y: 0.01, z: 0.01}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_179
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_180
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_181
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_182
+      parentName: Sepheroth_001
+      position: {x: -0, y: 67.468765, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_183
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 7.321656e-15, y: -0, z: -0, w: 1}
+      scale: {x: 0.9699999, y: 0.9699999, z: 0.9699999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_184
+      parentName: Sepheroth_001
+      position: {x: -0, y: 112.78509, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1.1764699, y: 1.1764699, z: 1.1764699}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_185
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_186
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_187
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_188
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_189
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_190
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_191
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_192
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_193
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_194
+      parentName: Sepheroth_001
+      position: {x: -0, y: 111.13627, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_195
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_196
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_197
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_198
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_199
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SepherothRig
+      parentName: Sepheroth_001
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SephHipPoint
+      parentName: SepherothRig
+      position: {x: 0.0000011175871, y: 62.503822, z: 6.1159277}
+      rotation: {x: -0.50000006, y: 0.49999994, z: -0.50000006, w: 0.49999994}
+      scale: {x: 1, y: 1, z: 1}
+    - name: SephSpinePoint1
+      parentName: SephHipPoint
+      position: {x: 1.1152378, y: -0.7655095, z: 0}
+      rotation: {x: -0, y: -0, z: -1.7763568e-15, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: SephBeltClothTop
+      parentName: SephSpinePoint1
+      position: {x: 1.285709, y: -5.590666, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: SephBeltClothMiddle
+      parentName: SephBeltClothTop
+      position: {x: 9.601908, y: -0.00000023841858, z: 0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 1.0000001}
+    - name: SephBeltClothBottom
+      parentName: SephBeltClothMiddle
+      position: {x: 9.479329, y: -0.0000019073486, z: 0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: SephLeg_r
+      parentName: SephSpinePoint1
+      position: {x: 5.360462, y: -0.5403381, z: 5.6052775}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1}
+    - name: ThighMuscle_r
+      parentName: SephLeg_r
+      position: {x: 24.742239, y: 2.9775674, z: 2.3200827}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: LowerLeg_r
+      parentName: SephLeg_r
+      position: {x: 24.742239, y: 2.9775674, z: 2.3200827}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: SephLowerLegMuscle_r
+      parentName: LowerLeg_r
+      position: {x: 26.208725, y: 3.7810798, z: 2.4575827}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1.0000001}
+    - name: SephFoot_r
+      parentName: SephLowerLegMuscle_r
+      position: {x: -0.00000071525574, y: 0.00000059604645, z: -0.00000074505806}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: SephToes_r
+      parentName: SephFoot_r
+      position: {x: 5.0181093, y: -11.869364, z: 0.032485984}
+      rotation: {x: 6.9286745e-15, y: 0.00000007749591, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999994}
+    - name: SephHeelPoint_r
+      parentName: SephFoot_r
+      position: {x: -0.0000006548653, y: -0.0000006961636, z: -0.0000007353665}
+      rotation: {x: 1.0469145e-14, y: 0.00000007735898, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0804708, y: 1.0804797, z: 1.0804721}
+    - name: SephToePoint_r
+      parentName: SephFoot_r
+      position: {x: 6.797651, y: -7.970869, z: -0.0000037924824}
+      rotation: {x: 1.0469145e-14, y: 0.00000007735898, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999994}
+    - name: SephKneePoint_r
+      parentName: LowerLeg_r
+      position: {x: -0.000007212162, y: 0.000011153519, z: -0.00000052154064}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: SephHipPoint_r
+      parentName: SephLeg_r
+      position: {x: -0.4378657, y: 3.9524765, z: 6.2990913}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1.0000001}
+    - name: SephTinyHipPoint
+      parentName: SephSpinePoint1
+      position: {x: -0.98954546, y: -5.703935, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 0.9999999}
+    - name: SephTinyHipPoint2
+      parentName: SephTinyHipPoint
+      position: {x: 0.000013813376, y: -0.00000011920929, z: 0.0000009536743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.8503879, y: 0.8503874, z: 0.850387}
+    - name: SephLeg_l
+      parentName: SephSpinePoint1
+      position: {x: 5.3604207, y: -0.5403382, z: -5.6052794}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999997}
+    - name: SephThighPoint_l
+      parentName: SephLeg_l
+      position: {x: 24.742264, y: 2.9775672, z: -2.3200765}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: SephHeelMuscle_l
+      parentName: SephThighPoint_l
+      position: {x: 26.20875, y: 3.7810848, z: -2.457591}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 0.9999997}
+    - name: SephFoot_l
+      parentName: SephHeelMuscle_l
+      position: {x: -0.0000021774322, y: -0.000000014901161, z: 0.0000015152618}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 1}
+    - name: SephToes_l
+      parentName: SephFoot_l
+      position: {x: 5.018103, y: -11.869364, z: -0.03248217}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999998}
+    - name: SephToePoint_l
+      parentName: SephFoot_l
+      position: {x: 6.797651, y: -7.970683, z: -0.000002164031}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999998}
+    - name: SephHeelPoint_l
+      parentName: SephFoot_l
+      position: {x: 0.00000027031638, y: 0.00000048597576, z: -0.00000071671093}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0804704, y: 1.0804805, z: 1.0804702}
+    - name: SephKneePoint_l
+      parentName: SephThighPoint_l
+      position: {x: 0.0000068992376, y: 0.0000063180923, z: 0.0000031888485}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: SephThigh_l
+      parentName: SephLeg_l
+      position: {x: 24.742264, y: 2.9775672, z: -2.3200765}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: SephHipPoint_l
+      parentName: SephLeg_l
+      position: {x: -0.43783304, y: 3.952479, z: -6.2990866}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1.0000001}
+    - name: SephButtClothTop
+      parentName: SephSpinePoint1
+      position: {x: 1.2945383, y: 8.372444, z: -0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: SephButtClothMiddle
+      parentName: SephButtClothTop
+      position: {x: 9.589131, y: 0.000000834465, z: 0.000000022351742}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999996, y: 0.9999997, z: 0.9999998}
+    - name: SephButtClothBottom
+      parentName: SephButtClothMiddle
+      position: {x: 9.421321, y: -0.000000834465, z: 0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: SepHipPoint_l
+      parentName: SephSpinePoint1
+      position: {x: 3.3036523, y: 0.026178569, z: -10.605555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000015, y: 1.0000005, z: 1.0000017}
+    - name: SephHipPoint2_r
+      parentName: SephSpinePoint1
+      position: {x: 3.3036625, y: 0.026179403, z: 10.60622}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000002, z: 1.000001}
+    - name: SephSpinePoint2
+      parentName: SephHipPoint
+      position: {x: -1.1011584, y: 0.0995715, z: 0}
+      rotation: {x: -0, y: -0, z: -1.7763568e-15, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.99999976}
+    - name: SephSpineMiddle
+      parentName: SephSpinePoint2
+      position: {x: -3.4055552, y: 0.8980639, z: -0.00000017881393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.99999994}
+    - name: SephSpine3
+      parentName: SephSpineMiddle
+      position: {x: -3.574376, y: 1.0408137, z: -0.000000834465}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1}
+    - name: SephChest
+      parentName: SephSpine3
+      position: {x: -5.637043, y: 1.5658468, z: -0.0000005364418}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000001}
+    - name: SephShoulderBlade_l
+      parentName: SephChest
+      position: {x: -7.9641213, y: -1.2425472, z: -2.9794602}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000008, z: 0.99999994}
+    - name: SephShoulder_l
+      parentName: SephShoulderBlade_l
+      position: {x: -0.75657785, y: 0.49611413, z: -8.125178}
+      rotation: {x: -0.068541415, y: 0.4325781, z: -0.00000005960465, w: 0.8989874}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1.0000004}
+    - name: SephBiceps_l
+      parentName: SephShoulder_l
+      position: {x: 13.0329275, y: 2.0650482, z: -9.5037775}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_35
+      parentName: SephShoulder_l
+      position: {x: 6.516467, y: 1.0325252, z: -4.751898}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 1}
+    - name: SephElbow_l
+      parentName: SephShoulder_l
+      position: {x: 13.0329275, y: 2.0650482, z: -9.5037775}
+      rotation: {x: 0.11447057, y: 0.0165579, z: 0.14775802, w: 0.98223716}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_42
+      parentName: SephElbow_l
+      position: {x: 8.945357, y: -3.0132723, z: -12.754874}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_239
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_42
+      position: {x: 0.000001758337, y: 0.0000009536743, z: -0.0000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_250
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_239
+      position: {x: 0.00000166893, y: -0.0000009536743, z: 0.00000047683716}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 0.99999994, z: 1}
+    - name: SephWrist_l
+      parentName: SephElbow_l
+      position: {x: 12.106013, y: -4.9158497, z: -8.827853}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999996, y: 0.9999993, z: 1.0000004}
+    - name: SephPinkie_l
+      parentName: SephWrist_l
+      position: {x: 6.5146856, y: 0.70603526, z: -3.9525518}
+      rotation: {x: -0.0254249, y: 0.061745908, z: -0.09383513, w: 0.9933459}
+      scale: {x: 1.0000007, y: 1.0000008, z: 0.9999998}
+    - name: SephUpperPinkie_l
+      parentName: SephPinkie_l
+      position: {x: 2.2565804, y: -0.30057755, z: -0.8092174}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000004}
+    - name: SephIndexFinger_l
+      parentName: SephWrist_l
+      position: {x: 5.979367, y: -5.3556476, z: -3.288187}
+      rotation: {x: 0.023671467, y: 0.13366154, z: -0.080738515, w: 0.987449}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: SephUpperIndexFinger_l
+      parentName: SephIndexFinger_l
+      position: {x: 2.9555292, y: -0.7401134, z: -0.35873473}
+      rotation: {x: -4.421257e-15, y: 0.000000029143369, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000002, y: 1.0000007, z: 1.0000002}
+    - name: SephThumb_l
+      parentName: SephWrist_l
+      position: {x: 2.3605943, y: -3.2570827, z: 0.15629685}
+      rotation: {x: 0.06727427, y: 0.097805396, z: -0.3663162, w: 0.9228872}
+      scale: {x: 1.0000002, y: 0.9999995, z: 1.0000008}
+    - name: SephUpperThumb_l
+      parentName: SephThumb_l
+      position: {x: 3.830558, y: -1.6581335, z: 0.26077175}
+      rotation: {x: 2.278479e-15, y: -1.7763566e-15, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000008, y: 1.0000011, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_107
+      parentName: SephWrist_l
+      position: {x: 6.2091722, y: -2.463774, z: -0.8327348}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_247
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_107
+      position: {x: -0.0000026077032, y: -0.00000051036477, z: 0.00000076409196}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000007, y: 1.000001, z: 0.99999994}
+    - name: SephRingFinger_l
+      parentName: SephWrist_l
+      position: {x: 6.1853175, y: -1.5105822, z: -4.167133}
+      rotation: {x: -0.030876564, y: 0.094244696, z: -0.13089223, w: 0.98642373}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+    - name: SephUpperRingFinger_l
+      parentName: SephRingFinger_l
+      position: {x: 2.8663368, y: -0.1758911, z: -0.8027929}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1.0000002}
+    - name: SephMiddleFinger_l
+      parentName: SephWrist_l
+      position: {x: 6.1761312, y: -3.4930644, z: -3.9719841}
+      rotation: {x: 0.020065164, y: 0.15499292, z: -0.105105445, w: 0.98210365}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: SephUpperMiddleFinger_l
+      parentName: SephMiddleFinger_l
+      position: {x: 3.127953, y: -0.58937496, z: -0.2719711}
+      rotation: {x: -4.2351642e-22, y: -0, z: -1.2449779e-22, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_110
+      parentName: SephWrist_l
+      position: {x: 6.03394, y: -3.028358, z: -0.7457435}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_241
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000054836273, y: 0.00000008940697, z: 0.0000005662441}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_243
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000054836273, y: 0.00000008940697, z: 0.0000005662441}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_251
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_243
+      position: {x: -0.000002026558, y: -0.00000016018748, z: -0.0000006556511}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_245
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000054836273, y: 0.00000008940697, z: 0.0000005662441}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_249
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_110
+      position: {x: 0.0000054836273, y: 0.00000008940697, z: 0.0000005662441}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1.0000001}
+    - name: SephLowerArmMuscle_l
+      parentName: SephElbow_l
+      position: {x: 6.0530033, y: -2.4577649, z: -4.4139233}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999998}
+    - name: SephWristMuscle_l
+      parentName: SephElbow_l
+      position: {x: 12.106015, y: -4.9155293, z: -8.827856}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999997, y: 0.9999997, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_234
+      parentName: SephElbow_l
+      position: {x: 0.000015318394, y: -0.000019073486, z: -0.000015467405}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999995, y: 0.9999999, z: 1.000001}
+    - name: SephShoulderPoint_l
+      parentName: SephShoulder_l
+      position: {x: -2.2257564, y: 1.1245147, z: 0.8963033}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9300002, y: 0.9300012, z: 0.93}
+    - name: SephShoulderBlade_r
+      parentName: SephChest
+      position: {x: -7.964073, y: -1.2425444, z: 2.6322365}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000002, z: 0.99999976}
+    - name: SephShoulder_r
+      parentName: SephShoulderBlade_r
+      position: {x: -0.7566607, y: 0.4961114, z: 8.125182}
+      rotation: {x: 0.0685414, y: -0.43257666, z: -0.00000008940696, w: 0.89898807}
+      scale: {x: 1.0000005, y: 1.0000004, z: 0.99999994}
+    - name: SephElbow_r
+      parentName: SephShoulder_r
+      position: {x: 13.032919, y: 2.0650568, z: 9.503837}
+      rotation: {x: -0.11446439, y: -0.016562432, z: 0.14775024, w: 0.98223907}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: SephLowerArmMuscle
+      parentName: SephElbow_r
+      position: {x: 6.053045, y: -2.4577694, z: 4.4138803}
+      rotation: {x: 4.2973072e-23, y: -0.000000024191689, z: -7.209685e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000002}
+    - name: SephWristMuscle2_r
+      parentName: SephElbow_r
+      position: {x: 12.106103, y: -4.915537, z: 8.82777}
+      rotation: {x: -7.1054265e-15, y: -0.000000048383345, z: -1.441936e-15, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 0.99999994}
+    - name: Wrist_r
+      parentName: SephElbow_r
+      position: {x: 12.106103, y: -4.915537, z: 8.82777}
+      rotation: {x: 3.5017166e-23, y: -0.000000019712912, z: -5.8749056e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.0000006, z: 1}
+    - name: SephRingFinger_r
+      parentName: Wrist_r
+      position: {x: 6.1852818, y: -1.5105782, z: 4.1670856}
+      rotation: {x: 0.030882569, y: -0.09422641, z: -0.13088666, w: 0.98642606}
+      scale: {x: 0.99999934, y: 1, z: 1.0000002}
+    - name: SephRingFingerUpper
+      parentName: SephRingFinger_r
+      position: {x: 2.866255, y: -0.17588758, z: 0.802912}
+      rotation: {x: -5.32907e-15, y: -0.00000005996882, z: -1.7872103e-15, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+    - name: SephIndexFinger_r
+      parentName: Wrist_r
+      position: {x: 6.176117, y: -3.4930634, z: 3.9719446}
+      rotation: {x: -0.020059131, y: -0.15497656, z: -0.10510139, w: 0.9821067}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: SephIndexFingerUpper_r
+      parentName: SephIndexFinger_r
+      position: {x: 3.127912, y: -0.58937407, z: 0.27208424}
+      rotation: {x: 5.800114e-23, y: -0.000000032651737, z: -9.730976e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 1.0000001}
+    - name: SephIndexFinger_r_001
+      parentName: Wrist_r
+      position: {x: 5.9793186, y: -5.355649, z: 3.2881913}
+      rotation: {x: -0.023669442, y: -0.13365866, z: -0.08073985, w: 0.9874494}
+      scale: {x: 0.99999994, y: 1, z: 0.9999998}
+    - name: SephUpperIndexFinger_r
+      parentName: SephIndexFinger_r_001
+      position: {x: 2.9555566, y: -0.74010944, z: 0.35875344}
+      rotation: {x: -5.26437e-15, y: -0.000000029143104, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999996, y: 0.99999946, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_114
+      parentName: Wrist_r
+      position: {x: 6.0338535, y: -3.028347, z: 0.745749}
+      rotation: {x: -0, y: -0, z: 6.902903e-31, w: 1}
+      scale: {x: 0.99999976, y: 0.99999994, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_244
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_114
+      position: {x: 0.000007033348, y: 0.0000014305115, z: -0.0000042915344}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_248
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_114
+      position: {x: 0.000007033348, y: 0.0000014305115, z: -0.0000042915344}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_115
+      parentName: Wrist_r
+      position: {x: 6.2090917, y: -2.4637613, z: 0.83274436}
+      rotation: {x: -0, y: -0, z: 6.902903e-31, w: 1}
+      scale: {x: 0.99999964, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_242
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_115
+      position: {x: 0.0000009536743, y: 0.0000009536743, z: 0.0000009536743}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_246
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_115
+      position: {x: 0.0000009536743, y: 0.0000009536743, z: 0.0000009536743}
+      rotation: {x: -3.5015324e-23, y: 0.000000019711875, z: 5.8745965e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1.0000001}
+    - name: SephThumb_r
+      parentName: Wrist_r
+      position: {x: 2.3605607, y: -3.2570786, z: -0.1562531}
+      rotation: {x: -0.06728188, y: -0.09780688, z: -0.36631647, w: 0.92288643}
+      scale: {x: 1.0000002, y: 0.9999999, z: 1.0000001}
+    - name: SephUpperThumb_r
+      parentName: SephThumb_r
+      position: {x: 3.8305547, y: -1.658135, z: -0.26083398}
+      rotation: {x: 2.5316765e-23, y: -0.0000000142520715, z: -4.2474483e-16, w: 1}
+      scale: {x: 1.0000007, y: 1.0000004, z: 1}
+    - name: SephPinkie_r
+      parentName: Wrist_r
+      position: {x: 6.5145855, y: 0.7060337, z: 3.952637}
+      rotation: {x: 0.025422128, y: -0.06175605, z: -0.093840525, w: 0.9933448}
+      scale: {x: 0.99999917, y: 0.99999994, z: 1.0000002}
+    - name: SephUpperPinkie_r
+      parentName: SephPinkie_r
+      position: {x: 2.256671, y: -0.3005805, z: 0.80916786}
+      rotation: {x: 6.573288e-23, y: -0.000000037004323, z: -1.1028148e-15, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_238
+      parentName: Wrist_r
+      position: {x: 37.485626, y: -15.397256, z: 20.686674}
+      rotation: {x: -7.0034326e-23, y: 0.00000003942582, z: 1.174981e-15, w: 1}
+      scale: {x: 0.9999995, y: 0.99999726, z: 1.0000029}
+    - name: SephArmPoint_r
+      parentName: Wrist_r
+      position: {x: -7.412173, y: 0.0000014305115, z: -0.0000038146973}
+      rotation: {x: -5.2939553e-23, y: 0.000000029802319, z: 8.881783e-16, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 0.99999994}
+    - name: SephElbowPoint_r
+      parentName: SephElbow_r
+      position: {x: -0.00000461936, y: -0.0000014305115, z: -0.0000009536743}
+      rotation: {x: 2.6469776e-23, y: -0.000000014901159, z: -4.4408916e-16, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000007}
+    - name: SephBiceps_r
+      parentName: SephShoulder_r
+      position: {x: 13.032919, y: 2.0650568, z: 9.503837}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 0.9999998, z: 1}
+    - name: SephBicepsUpper_r
+      parentName: SephShoulder_r
+      position: {x: 6.516454, y: 1.0325289, z: 4.751918}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.99999994}
+    - name: SephShoulderPoint_r
+      parentName: SephShoulder_r
+      position: {x: -2.2257133, y: 1.124795, z: -0.8963114}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.93000036, y: 0.93000084, z: 0.9300015}
+    - name: SephCapeVeryTop
+      parentName: SephChest
+      position: {x: -2.5325499, y: 7.9545135, z: 0.0000004172325}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000006, z: 1}
+    - name: SephCapeTop
+      parentName: SephCapeVeryTop
+      position: {x: 11.390234, y: -0.00000166893, z: 0}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.9999996, y: 0.9999995, z: 1}
+    - name: SephCapeMiddle
+      parentName: SephCapeTop
+      position: {x: 12.715042, y: -0.0000008940697, z: 0.00000014901161}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000007, y: 1.0000005, z: 1}
+    - name: SephCapeSecondBottom
+      parentName: SephCapeMiddle
+      position: {x: 12.438848, y: -0.0000008940697, z: -0.00000047683716}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: SephCapeBottom
+      parentName: SephCapeSecondBottom
+      position: {x: 12.142678, y: -0.00000013411045, z: -0.0000002682209}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000005, z: 0.9999998}
+    - name: SephNeck1
+      parentName: SephChest
+      position: {x: -12.285361, y: -0.32958904, z: 0.0000003501773}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 0.99999994}
+    - name: SephNeck2
+      parentName: SephNeck1
+      position: {x: -3.006809, y: -0.6533954, z: -0.00000014901161}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: SephNeck3
+      parentName: SephNeck2
+      position: {x: -1.8146477, y: -0.17733705, z: -0.0000006854534}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999998, z: 1.0000005}
+    - name: SephForehead
+      parentName: SephNeck3
+      position: {x: -3.4447992, y: -6.6793256, z: 0.0000008735806}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+    - name: SephNoseWrinkle_r
+      parentName: SephNeck3
+      position: {x: -1.6770878, y: -6.0721865, z: 0.82207423}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_52
+      parentName: SephNeck3
+      position: {x: 0.74598604, y: -4.0790157, z: -2.641506}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_53
+      parentName: SephNeck3
+      position: {x: -1.0842779, y: -4.5933857, z: -2.7880104}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_54
+      parentName: SephNeck3
+      position: {x: -0.24008946, y: -5.7455635, z: -1.4456322}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_55
+      parentName: SephNeck3
+      position: {x: -1.3183007, y: 2.3050144, z: 3.7758908}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_119
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_55
+      position: {x: 4.538292, y: 4.562918, z: 0.044198155}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: SephHair31
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_119
+      position: {x: 5.824844, y: 2.698539, z: -0.046838284}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: SephHair32
+      parentName: SephHair31
+      position: {x: 6.3869977, y: 0.89360416, z: 0.09141183}
+      rotation: {x: 3.3063492e-24, y: -0.0000000018613091, z: -5.5471334e-17, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: SephHair33
+      parentName: SephHair32
+      position: {x: 6.371635, y: 0.20097494, z: 0.21564531}
+      rotation: {x: -3.3083623e-24, y: 0.0000000018624424, z: 5.550511e-17, w: 1}
+      scale: {x: 1, y: 1, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_56
+      parentName: SephNeck3
+      position: {x: -1.9781032, y: 2.269862, z: -3.7454865}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 0.9999999, z: 1.0000004}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_120
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_56
+      position: {x: 6.148778, y: 1.4530449, z: 0.31002247}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000008, z: 1.0000002}
+    - name: IgnorePoint_008
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_120
+      position: {x: 7.0234156, y: 0.023863912, z: -0.34686267}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000006, z: 1}
+    - name: IgnorePoint_009
+      parentName: IgnorePoint_008
+      position: {x: 6.2341285, y: -0.1970582, z: -0.024379969}
+      rotation: {x: 3.308722e-24, y: -0.0000000018626449, z: -5.5511145e-17, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 0.99999994}
+    - name: IgnorePoint_010
+      parentName: IgnorePoint_009
+      position: {x: 5.704513, y: 0.15009576, z: -0.052719355}
+      rotation: {x: -0, y: -0, z: 6.1629744e-33, w: 1}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+    - name: IgnorePoint_011
+      parentName: IgnorePoint_010
+      position: {x: 8.140739, y: 0.0000004172325, z: -0.00000047683716}
+      rotation: {x: -3.308722e-24, y: 0.0000000018626449, z: 5.5511145e-17, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_57
+      parentName: SephNeck3
+      position: {x: -2.6391659, y: -4.135204, z: -1.5972213}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_58
+      parentName: SephNeck3
+      position: {x: -3.8862062, y: -2.2840538, z: -3.6850429}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_121
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_58
+      position: {x: 7.3194017, y: -0.3319218, z: 0.28255105}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 0.99999964, z: 1.0000012}
+    - name: IgnorePoint_007
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_121
+      position: {x: 6.844208, y: -0.07665324, z: 0.0059798956}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000008, z: 0.9999999}
+    - name: IgnorePoint_006
+      parentName: IgnorePoint_007
+      position: {x: 6.757503, y: 0.15876615, z: 0.5054712}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999994, y: 1.0000002, z: 1.0000006}
+    - name: IgnorePoint_005
+      parentName: IgnorePoint_006
+      position: {x: 7.5155168, y: -0.0021013021, z: 0.0000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_59
+      parentName: SephNeck3
+      position: {x: -5.1694365, y: -5.6233897, z: -2.1050408}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_60
+      parentName: SephNeck3
+      position: {x: -3.514346, y: -5.9714613, z: -2.0133362}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000005, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_61
+      parentName: SephNeck3
+      position: {x: -3.0498724, y: -6.4701552, z: -0.8314228}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_62
+      parentName: SephNeck3
+      position: {x: -3.003751, y: -5.32316, z: -1.7844213}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_63
+      parentName: SephNeck3
+      position: {x: -2.3213124, y: -5.353495, z: -1.8000635}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 1.0000001}
+    - name: SephChin
+      parentName: SephNeck3
+      position: {x: 2.6965215, y: -5.8335156, z: 0.0000008298084}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_65
+      parentName: SephNeck3
+      position: {x: -6.0300717, y: 3.70168, z: 0.0000010151416}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_122
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_65
+      position: {x: 1.937315, y: 5.913202, z: -0.03961064}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000004, z: 0.99999964}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_150
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_122
+      position: {x: -0.21978723, y: 12.17462, z: -0.00000011920929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999934, y: 0.99999934, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_161
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_150
+      position: {x: 0.2197887, y: 12.38365, z: 0.00000017881393}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000011, y: 1.0000008, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_170
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_161
+      position: {x: 0.54949605, y: 14.757804, z: -0.00000008940697}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000013, y: 1.0000008, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_66
+      parentName: SephNeck3
+      position: {x: 0.7937127, y: -5.5021796, z: 1.3095645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: SephUpperLip3
+      parentName: SephNeck3
+      position: {x: 0.9335076, y: -5.829403, z: 0.9161643}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: SephUpperLip
+      parentName: SephNeck3
+      position: {x: 0.80599374, y: -6.1460238, z: 0.38191938}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000001, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_69
+      parentName: SephNeck3
+      position: {x: -3.026391, y: -6.3939548, z: 0.9336598}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_70
+      parentName: SephNeck3
+      position: {x: -4.008501, y: -0.23998527, z: 4.255792}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_123
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_70
+      position: {x: -5.739465, y: 2.2705553, z: 1.8861799}
+      rotation: {x: 3.5527133e-15, y: 0.000000010944405, z: 3.2616864e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_151
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_123
+      position: {x: -4.4151387, y: 2.8837645, z: 1.3604734}
+      rotation: {x: -3.5527133e-15, y: -0.000000010944405, z: -3.2616864e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000006, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_71
+      parentName: SephNeck3
+      position: {x: -0.24009147, y: -5.7455626, z: 1.4456347}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 0.9999999, z: 0.9999999}
+    - name: SephTongue
+      parentName: SephNeck3
+      position: {x: 0.76955897, y: -4.516235, z: 0.0000009760261}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_73
+      parentName: SephNeck3
+      position: {x: -1.0842806, y: -4.593385, z: 2.7880116}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000001}
+    - name: SephNose
+      parentName: SephNeck3
+      position: {x: -0.57036954, y: -7.0684986, z: 0.00000090524554}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_75
+      parentName: SephNeck3
+      position: {x: -4.008534, y: -0.23998989, z: -4.25579}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_124
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_75
+      position: {x: -5.7394824, y: 2.2705703, z: -1.8861929}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000002, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_152
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_124
+      position: {x: -4.4151154, y: 2.8837538, z: -1.3604593}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_76
+      parentName: SephNeck3
+      position: {x: 0.7459867, y: -4.079015, z: 2.6415086}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_77
+      parentName: SephNeck3
+      position: {x: -2.3213077, y: -5.353495, z: 1.8000652}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_78
+      parentName: SephNeck3
+      position: {x: -3.0037618, y: -5.3231606, z: 1.7844232}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_79
+      parentName: SephNeck3
+      position: {x: -0.70180523, y: -6.4086795, z: 0.3125358}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_80
+      parentName: SephNeck3
+      position: {x: -3.8835235, y: -2.2840536, z: 3.6858077}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.9999998}
+    - name: IgnorePoint_003
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_80
+      position: {x: 6.077611, y: -0.21018265, z: -0.19784242}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: IgnorePoint_002
+      parentName: IgnorePoint_003
+      position: {x: 7.055208, y: -0.27819884, z: 0.13820505}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999998, z: 1}
+    - name: IgnorePoint_001
+      parentName: IgnorePoint_002
+      position: {x: 6.722978, y: -0.040546417, z: 0.037608147}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000008, y: 1.0000005, z: 1.0000001}
+    - name: IgnorePoint
+      parentName: IgnorePoint_001
+      position: {x: 7.5154204, y: -0.004995346, z: -0.0000009536743}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_81
+      parentName: SephNeck3
+      position: {x: -5.1694336, y: -5.6233897, z: 2.1050432}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_82
+      parentName: SephNeck3
+      position: {x: -3.0498648, y: -6.4701567, z: 0.83142453}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_83
+      parentName: SephNeck3
+      position: {x: -3.5143435, y: -5.9714613, z: 2.013339}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000006, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_84
+      parentName: SephNeck3
+      position: {x: -3.4315584, y: -4.876389, z: 3.072515}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999999, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_85
+      parentName: SephNeck3
+      position: {x: -0.7020107, y: -6.4087515, z: -0.3122812}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1.0000001}
+    - name: SephUpperLip2
+      parentName: SephNeck3
+      position: {x: 0.80643415, y: -6.1459956, z: -0.3819083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_87
+      parentName: SephNeck3
+      position: {x: 0.79344517, y: -5.5021977, z: -1.3095797}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_88
+      parentName: SephNeck3
+      position: {x: 0.9338171, y: -5.829488, z: -0.91600263}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000005, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_89
+      parentName: SephNeck3
+      position: {x: -1.6770934, y: -6.0721865, z: -0.82207304}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000007, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_90
+      parentName: SephNeck3
+      position: {x: -2.2805269, y: 4.1679015, z: -0.0033288002}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_126
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_90
+      position: {x: 5.4680266, y: 3.2579305, z: 0.23520541}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1}
+    - name: SephHair21
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_126
+      position: {x: 5.9348636, y: 2.3813825, z: 0.25470996}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: SephHair22
+      parentName: SephHair21
+      position: {x: 6.207561, y: 1.441891, z: 0.24909031}
+      rotation: {x: -0, y: -0, z: 0.00000008940697, w: 1}
+      scale: {x: 0.99999964, y: 0.9999995, z: 1}
+    - name: SephHair23
+      parentName: SephHair22
+      position: {x: 6.374235, y: 0.08717121, z: 0.22349745}
+      rotation: {x: -0, y: -0, z: -0.00000008940697, w: 1}
+      scale: {x: 1.0000006, y: 1.0000007, z: 0.99999976}
+    - name: SephHairBottom
+      parentName: SephHair23
+      position: {x: 6.3732195, y: 0.025435194, z: 0.040343195}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.99999994, z: 0.99999976}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_91
+      parentName: SephNeck3
+      position: {x: -3.4315546, y: -4.876392, z: -3.072513}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 0.9999999, z: 0.9999997}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_92
+      parentName: SephNeck3
+      position: {x: -1.276575, y: 0.5566123, z: 0.0000006968621}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_127
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.146106, y: -6.1137557, z: 1.2388077}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_128
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.8366888, y: -5.0728474, z: -0.000000053085387}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000004, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_129
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5621524, y: -6.6731296, z: 0.3424546}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000006, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_130
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5043244, y: -6.3734045, z: 0.8707865}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000002, z: 0.99999964}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_131
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5043252, y: -6.3734045, z: -0.8707872}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_132
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.146088, y: -6.1137547, z: -1.2388083}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000007, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_133
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_92
+      position: {x: 2.5622187, y: -6.673125, z: -0.34245193}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.0000005, z: 0.9999998}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_93
+      parentName: SephNeck3
+      position: {x: -2.6391633, y: -4.1352043, z: 1.597223}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_94
+      parentName: SephNeck3
+      position: {x: -9.145512, y: 3.249584, z: 0.0000010018703}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.99999964}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_134
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_94
+      position: {x: -4.1493726, y: 2.5202506, z: 0.014112698}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1, z: 0.99999994}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_155
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_134
+      position: {x: -4.3797855, y: 2.5596566, z: -0.025338233}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000006, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_164
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_155
+      position: {x: -7.094209, y: 4.395085, z: 0.0112246275}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000005, y: 1.000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_173
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_164
+      position: {x: -12.917, y: 8.927254, z: 0}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.000001, y: 1.0000012, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_95
+      parentName: SephNeck3
+      position: {x: -3.0263836, y: -6.393958, z: -0.9336543}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_96
+      parentName: SephNeck3
+      position: {x: -1.0110222, y: 3.307378, z: 2.5220938}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+    - name: SephShoulderTasselVeryTop_r
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_96
+      position: {x: 6.7857285, y: -0.5249897, z: 0.7110194}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+    - name: SephShoulderTasselTop_r
+      parentName: SephShoulderTasselVeryTop_r
+      position: {x: 6.7777357, y: -0.048541605, z: -0.106283784}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: SephShoulderTassel2_r
+      parentName: SephShoulderTasselTop_r
+      position: {x: 5.9065056, y: -0.059586287, z: -0.040363908}
+      rotation: {x: 3.308722e-24, y: -0.0000000018626449, z: -5.5511145e-17, w: 1}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: SephShoulderTassel3_r
+      parentName: SephShoulderTassel2_r
+      position: {x: 5.6648154, y: -0.06919336, z: 0.072476745}
+      rotation: {x: -6.6174315e-24, y: 0.0000000037252827, z: 1.1102208e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1}
+    - name: SephShoulderTasselBottom_r
+      parentName: SephShoulderTassel3_r
+      position: {x: 8.140834, y: -0.0000011920929, z: -0.00000047683716}
+      rotation: {x: 6.6174315e-24, y: -0.0000000037252827, z: -1.1102208e-16, w: 1}
+      scale: {x: 1.0000005, y: 1.0000001, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_97
+      parentName: SephNeck3
+      position: {x: -1.5918903, y: 1.314981, z: -3.497474}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000004, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_136
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_97
+      position: {x: 4.675998, y: 4.318382, z: 0.0692258}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 0.9999997, z: 0.99999994}
+    - name: SephHair11
+      parentName: character_bloodelf_male_bloodelfmale_hd_bone_136
+      position: {x: 5.7063117, y: 2.9909186, z: 0.14907765}
+      rotation: {x: -3.333448e-24, y: 0.0000000018765645, z: 5.592598e-17, w: 1}
+      scale: {x: 1.0000005, y: 1.0000004, z: 1.0000001}
+    - name: SephHair12
+      parentName: SephHair11
+      position: {x: 6.3154874, y: 1.3304896, z: 0.19009686}
+      rotation: {x: 6.645073e-24, y: -0.0000000037408436, z: -1.1148583e-16, w: 1}
+      scale: {x: 1.0000006, y: 1.0000001, z: 1}
+    - name: SephHair13
+      parentName: SephHair12
+      position: {x: 6.359844, y: 0.45459986, z: 0.19798923}
+      rotation: {x: -6.617457e-24, y: 0.000000003725297, z: 1.110225e-16, w: 1}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_98
+      parentName: SephNeck3
+      position: {x: -6.753618, y: -4.0777283, z: -7.005463}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_99
+      parentName: SephNeck3
+      position: {x: -4.3434334, y: -5.350555, z: -3.5774686}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_100
+      parentName: SephNeck3
+      position: {x: -6.7537627, y: -4.0777493, z: 7.0054655}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999976, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_101
+      parentName: SephNeck3
+      position: {x: -4.3434186, y: -5.3505554, z: 3.5774715}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_102
+      parentName: SephNeck3
+      position: {x: -2.6604571, y: -5.622746, z: -1.7550795}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_103
+      parentName: SephNeck3
+      position: {x: -2.6604521, y: -5.622746, z: 1.755081}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_231
+      parentName: SephNeck3
+      position: {x: -0.000004053116, y: 0.00000064773485, z: 0.00000087346416}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_232
+      parentName: SephNeck3
+      position: {x: -8.399227, y: -1.7405, z: 0.0000008479692}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_235
+      parentName: SephNeck3
+      position: {x: -0.000004053116, y: 0.00000064773485, z: 0.00000087346416}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_236
+      parentName: SephNeck3
+      position: {x: 1.6582623, y: -6.393225, z: 0.0000010635704}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_237
+      parentName: SephNeck3
+      position: {x: 1.4663346, y: 0.23188627, z: -7.099894}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_207
+      parentName: SephSpine3
+      position: {x: -23.767397, y: 11.534088, z: 11.711506}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.6500009, y: 0.64999944, z: 0.6499998}
+    - name: SephChestPoint1
+      parentName: SephSpine3
+      position: {x: 0.000009298325, y: -0.0000104904175, z: -0.00000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: SephChestPoint2
+      parentName: SephSpine3
+      position: {x: 0.000009551644, y: -0.00000023841858, z: -0.00000035762787}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: SephButtPoint2
+      parentName: SephSpine3
+      position: {x: 19.869127, y: 9.070849, z: 2.3545682}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: SephBackPoint
+      parentName: SephSpine3
+      position: {x: -10.982234, y: 15.367544, z: -0.000000834465}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000005, z: 0.9999999}
+    - name: SephHighShoulderPoint_l
+      parentName: SephSpine3
+      position: {x: -26.708622, y: 14.23752, z: -13.055555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 0.99999946, z: 1.0000012}
+    - name: IgnorePoint_012
+      parentName: SephSpine3
+      position: {x: 19.869127, y: 9.070849, z: 2.3545682}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_216
+      parentName: SephSpine3
+      position: {x: -2.7605722, y: 0.8543389, z: 0.27002448}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999998, y: 1, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_217
+      parentName: SephSpine3
+      position: {x: -26.708605, y: 14.237522, z: 13.055555}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999997, y: 0.99999934, z: 1.0000012}
+    - name: IgnorePoint_004
+      parentName: SephSpine3
+      position: {x: -9.500158, y: -6.2084885, z: 0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: IgnorePoint_014
+      parentName: SephSpine3
+      position: {x: -4.059667, y: 15.423733, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000013}
+    - name: IgnorePoint_013
+      parentName: SephSpine3
+      position: {x: -2.6308548, y: 16.041676, z: 2.2171102}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 0.99999917, y: 0.99999917, z: 1.0000008}
+    - name: SephCapePoint
+      parentName: SephSpine3
+      position: {x: -6.1607137, y: 7.581509, z: -0.00000059604645}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: character_bloodelf_male_bloodelfmale_hd_bone_222
+      parentName: SephSpine3
+      position: {x: 0.000009529293, y: -0.0000010728836, z: -0.00000023841858}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: SephButtPoint
+      parentName: SephSpine3
+      position: {x: 19.869127, y: 9.070849, z: 2.3545682}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1.0000002, z: 1}
+    - name: IgnorePoint_015
+      parentName: SephSpine3
+      position: {x: -3.9982262, y: 12.218958, z: -0.00000074505806}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1.0000017}
+    - name: SephBeltPoint_l
+      parentName: SephSpinePoint2
+      position: {x: 0.28560084, y: -0.099571824, z: -9.919819}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000007, y: 1.0000001, z: 1}
+    - name: SephBeltPoint_r
+      parentName: SephSpinePoint2
+      position: {x: 0.2856056, y: -0.09957194, z: 9.919444}
+      rotation: {x: -0, y: -0, z: -0, w: 1}
+      scale: {x: 1.0000006, y: 1.0000005, z: 1.0000001}
+    - name: SepherothModel
+      parentName: W.O.W.Sepheroth_Player(Clone)
+      position: {x: -0, y: 0, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
