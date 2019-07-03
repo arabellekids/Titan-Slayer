@@ -37,6 +37,28 @@ public class InventoryManager : MonoBehaviour {
         }
 
         items.Add(item);
+
+        if (OnItemsChanged != null)
+        {
+            OnItemsChanged.Invoke();
+        }
         return true;
     }
+
+    public void RemoveItem(Item item)
+    {
+        var result = items.Remove(item);
+        if (!result)
+        {
+            Debug.LogError("Item " + item.name + " was not found in inventory.");
+            return;
+        }
+
+        if (OnItemsChanged != null)
+        {
+            OnItemsChanged.Invoke();
+        }
+    }
+
+    public event Action OnItemsChanged;
 }
