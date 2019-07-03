@@ -19,9 +19,9 @@ public class PlayerMovement : MonoBehaviour {
 	void Update () {
         if(focus != null)
         {
-            if (Vector3.Distance(transform.position, focus.transform.position) < focus.radius - 0.8 && !hasInteracted)
+            if (Vector3.Distance(transform.position, focus.transform.position) < focus.radius - focus.stoppingoffset && !hasInteracted)
             {
-                Debug.Log("Interacting");
+                focus.Interact();
                 hasInteracted = true;
 
                 Vector3 lookAt = new Vector3(focus.transform.position.x - transform.position.x, 0, focus.transform.position.z - transform.position.z);
