@@ -19,4 +19,14 @@ public class InventorySlotUI : MonoBehaviour
         itemIcon.gameObject.SetActive(false);
         itemIcon.sprite = null;
     }
+    public void UseItem()
+    {
+        if(item != null)
+        {
+            item.Use();
+            Debug.Log("Using item");
+        }
+        
+        
+    }
 }
