@@ -8,6 +8,7 @@ public class PlayerMovement : MonoBehaviour {
     public Camera cam;
     public Animator anim;
     public Interactable focus;
+    public LayerMask layerMask;
 
     bool hasInteracted = false;
 	// Use this for initialization
@@ -34,7 +35,7 @@ public class PlayerMovement : MonoBehaviour {
             RaycastHit hit;
             Ray ray = Camera.main.ScreenPointToRay(Input.mousePosition);
 
-            if (Physics.Raycast(ray, out hit))
+            if (Physics.Raycast(ray, out hit,100 ,layerMask))
             {
                 Defocus();
                 agent.SetDestination(hit.point);
