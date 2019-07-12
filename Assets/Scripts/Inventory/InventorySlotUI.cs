@@ -24,7 +24,6 @@ public class InventorySlotUI : MonoBehaviour
         if(item != null)
         {
             item.Use();
-            Debug.Log("Using item");
         }
         
         

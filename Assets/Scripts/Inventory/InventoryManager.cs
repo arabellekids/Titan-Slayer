@@ -24,10 +24,19 @@ public class InventoryManager : MonoBehaviour {
         instance = this;
     }
     #endregion
+    public GameObject inventoryUICanvas;
 
     public int capacity = 20;
     public List<Item> items = new List<Item>();
 
+
+    private void Update()
+    {
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            inventoryUICanvas.SetActive(!inventoryUICanvas.activeInHierarchy);
+        }
+    }
     public bool AddItem(Item item)
     {
         if (items.Count >= capacity)
