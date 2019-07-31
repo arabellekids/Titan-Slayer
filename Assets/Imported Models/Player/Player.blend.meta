@@ -80,6 +80,7 @@ ModelImporter:
     2100004: ChestPlateMat_001
     2100006: HelmetPlateMat
     2100008: FeetPlateMat
+    2100010: LegsPlateMat_001
     4300000: LowMan_005
     4300002: LowMan_004
     4300004: LowMan_003
@@ -94,7 +95,32 @@ ModelImporter:
     13700006: LowMan_003
     13700008: LowMan_004
     13700010: LowMan_005
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ChestPlateMat_001
+    second: {fileID: 2100000, guid: da6a778f8c0d78c45b3af652ff276560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FeetPlateMat
+    second: {fileID: 2100000, guid: c87094983b3a4b447bde92fc8c031b86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: HelmetPlateMat
+    second: {fileID: 2100000, guid: c0d5789a4088f424aabd892ab8a5c8ed, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LegsPlateMat_001
+    second: {fileID: 2100000, guid: 22b26b861c117bf40be215df93654c60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SkinMat
+    second: {fileID: 2100000, guid: 713335bd486060644bb0bcf50953eb18, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
