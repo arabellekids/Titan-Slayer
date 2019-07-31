@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 1df44acb328ca344daec4926b0dc3fe0
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: LowMan
+    100002: LowMan_001
+    100004: LowMan_002
+    100006: LowMan_003
+    100008: LowMan_004
+    100010: LowMan_005
+    100012: LowManHead
+    100014: LowManHips
+    100016: LowManLeftArm
+    100018: LowManLeftFoot
+    100020: LowManLeftForeArm
+    100022: LowManLeftHand
+    100024: LowManLeftHandMiddle1
+    100026: LowManLeftHandMiddle2
+    100028: LowManLeftHandThumb1
+    100030: LowManLeftLeg
+    100032: LowManLeftShoulder
+    100034: LowManLeftToeBase
+    100036: LowManLeftUpLeg
+    100038: LowManNeck
+    100040: LowManRightArm
+    100042: LowManRightFoot
+    100044: LowManRightForeArm
+    100046: LowManRightHand
+    100048: LowManRightHandMiddle1
+    100050: LowManRightHandMiddle2
+    100052: LowManRightHandThumb1
+    100054: LowManRightLeg
+    100056: LowManRightShoulder
+    100058: LowManRightToeBase
+    100060: LowManRightUpLeg
+    100062: LowManSkeleton
+    100064: LowManSpine
+    100066: LowManSpine1
+    100068: LowManSpine2
+    100070: //RootNode
+    400000: LowMan
+    400002: LowMan_001
+    400004: LowMan_002
+    400006: LowMan_003
+    400008: LowMan_004
+    400010: LowMan_005
+    400012: LowManHead
+    400014: LowManHips
+    400016: LowManLeftArm
+    400018: LowManLeftFoot
+    400020: LowManLeftForeArm
+    400022: LowManLeftHand
+    400024: LowManLeftHandMiddle1
+    400026: LowManLeftHandMiddle2
+    400028: LowManLeftHandThumb1
+    400030: LowManLeftLeg
+    400032: LowManLeftShoulder
+    400034: LowManLeftToeBase
+    400036: LowManLeftUpLeg
+    400038: LowManNeck
+    400040: LowManRightArm
+    400042: LowManRightFoot
+    400044: LowManRightForeArm
+    400046: LowManRightHand
+    400048: LowManRightHandMiddle1
+    400050: LowManRightHandMiddle2
+    400052: LowManRightHandThumb1
+    400054: LowManRightLeg
+    400056: LowManRightShoulder
+    400058: LowManRightToeBase
+    400060: LowManRightUpLeg
+    400062: LowManSkeleton
+    400064: LowManSpine
+    400066: LowManSpine1
+    400068: LowManSpine2
+    400070: //RootNode
+    2100000: LegsPlateMat
+    2100002: SkinMat
+    2100004: ChestPlateMat_001
+    2100006: HelmetPlateMat
+    2100008: FeetPlateMat
+    4300000: LowMan_005
+    4300002: LowMan_004
+    4300004: LowMan_003
+    4300006: LowMan_002
+    4300008: LowMan_001
+    4300010: LowMan
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: LowMan
+    13700002: LowMan_001
+    13700004: LowMan_002
+    13700006: LowMan_003
+    13700008: LowMan_004
+    13700010: LowMan_005
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
